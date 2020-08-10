@@ -1,0 +1,1 @@
+Artículo 1º: Autorizase la Ordenanza Fiscal e Impositiva año 2020, según el Anexo I – Fiscal y el Anexo II – Impositiva, que forman parte de la presente Ordenanza.
