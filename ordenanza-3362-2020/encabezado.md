@@ -1,0 +1,10 @@
+Ordenanza Nº3362/2020
+Ordenanza Nº 3362/2020
+Veinticinco de Mayo, 26/02/2020
+Señor Intendente Municipal
+del Partido de 25 de Mayo
+Dr. Hernán Ralinqueo
+S / D REF. EXPTE. Nº 150/2019
+ORDENANZA COMPLEMENTARIA DEL PRESUPUESTO
+DE LA MUNICIPALIDAD DE 25 DE MAYO EJERCICIO 2020
+ORDENANZA
