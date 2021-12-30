@@ -1,0 +1,15 @@
+Ordenanza Nº3432/2021
+Ordenanza Nº 3432/2021
+Veinticinco de Mayo, 24/11/2021
+ORDENANZA
+Artículo 1º: Establécese el mecanismo de acceso a informes de gestión del Departamento Ejecutivo Municipal al Honorable Concejo Deliberante, sin perjuicio de lo dispuesto en el Artículo N° 108, inc. 7º del Decreto Ley N° 6768/1958, Ley Orgánica de las Municipalidades.
+Artículo 2º: El Departamento Ejecutivo Municipal concurrirá por intermedio del Secretario de Gobierno, o cargo que lo reemplace en el futuro, a las Sesiones del Concejo Deliberante, una vez por bimestre, durante el período de Sesiones Ordinarias de cada ejercicio, sin perjuicio de hacerlo obligatoriamente antes del tratamiento de la Rendición de Cuentas y con posteridad a la presentación del Presupuesto, para informar al Honorable Concejo Deliberante respecto de la gestión de gobierno.
+Artículo 3º: El Honorable Concejo Deliberante, a través de la Presidencia del Cuerpo, informará al Departamento Ejecutivo Municipal las fechas en las que deberá asistir el Secretario de Gobierno Municipal a presentar su informe.
+Artículo 4º: Los Bloques Políticos que conforman el Honorable Concejo Deliberante de 25 de Mayo deberán presentar con antelación de diez (10) días hábiles administrativos a través de la Presidencia del Cuerpo, las preguntas sobre los temas que éstos consideren oportunos, las cuales serán evacuadas en la Sesión prevista en el Artículo 2º.
+Artículo 5º: El Secretario de Gobierno, de considerarlo, podrá concurrir acompañado de otros Secretarios o Funcionarios del Departamento Ejecutivo que crea conveniente para su exposición.
+Estos sólo podrán hacer uso de la palabra a requerimiento expreso del Secretario, previo asentimiento del Concejo Deliberante, quien prestará su conformidad o negativa mediante votación por mayoría simple.
+Artículo 6º: Se establece que luego de la exposición del Secretario de Gobierno, cada uno de los Bloques en particular designará a uno o varios oradores, que dispondrán de diez (10) minutos en total para solicitar aclaraciones o ampliaciones a las respuestas del funcionario, respecto del temario de preguntas oportunamente remitido al Departamento Ejecutivo, no pudiendo adicionar nuevos temas ajenos al cuestionario.
+El Funcionario orador dispondrá entonces de un tiempo máximo de diez (10) minutos para formular aclaraciones o ampliaciones requeridas, estando facultado para solicitar, en cada caso, breves Cuartos Intermedios, a efectos de realizar consultas y ordenar sus respuestas. Todos los plazos antes mencionados sólo podrán prorrogarse una única vez, por un máximo de cinco (5) minutos, mediante votación del H. Cuerpo, por mayoría simple.
+El contralor de los lapsos de tiempo arriba mencionados estará a cargo de la Presidencia del Honorable Concejo Deliberante.
+Artículo 7º: El tiempo no invertido en un turno por quien haga uso de la palabra, de conformidad con lo establecido en esta Ordenanza, no importará ampliación de los tiempos acordados a los restantes expositores de cada Bloque.
+Artículo 8º: Comuníquese al Departamento Ejecutivo.
