@@ -1,0 +1,2 @@
+Artículo 2º: Comuníquese al Departamento Ejecutivo.
+Sin otro particular, le saludan atentamente.
