@@ -1,0 +1,6 @@
+Ordenanza Nº3470/2022
+Ordenanza Nº 3470/2022
+Veinticinco de Mayo, 12/10/2022
+ORDENANZA
+Artículo 1º: Convalídese el Convenio celebrado entre el Ministerio de Desarrollo de la Comunidad de la Provincia de Buenos Aires representado por su Ministro Andrés Larroque con domicilio en calle 55 N° 570 de la Ciudad de La Plata y la Municipalidad de 25 de Mayo representada en este acto por el Sr. Intendente Ángel Hernán Horacio Ralinqueo DNI N°31.196.090 con domicilio legal en calle 27 N° 790 de la Ciudad de 25 de Mayo, Provincia de Buenos Aires, denominado ACTA DE INTENCIÓN DE FINANCIAMIENTO PARA LA MEJORA DEL HÁBITAT LEY 14.449 DE ACCESO JUSTO AL HÁBITAT MUNICIPIO DE 25 DE MAYO, con el objeto de la entrega de un financiamiento por la suma de pesos veinte millones ($ 20.000.000) en el marco del Programa de Financiamiento para la Mejora del Hábitat, aprobado por RESOL-2019-2348-GDBA-MDCGP, con cargo al Fondo Fiduciario Público: “Sistema de Financiamiento y Asistencia Técnica para la Mejora del Hábitat”, creado en virtud de lo dispuesto por el Artículo 37 de la Ley N° 14.449, el cual se adjunta y pasa a formar parte de la presente Ordenanza como Anexo I.
+Artículo 2º: Comuníquese al Departamento Ejecutivo.
