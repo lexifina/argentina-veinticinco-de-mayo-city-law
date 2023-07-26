@@ -1,0 +1,7 @@
+Ordenanza Nº3509/2023
+Ordenanza Nº 3509/2023
+Veinticinco de Mayo, 11/07/2023
+ORDENANZA
+Artículo 1º: Convalídense el Convenio Específico celebrado entre la Municipalidad de Veinticinco de Mayo, con domicilio en la calle 9 y 27 de 25 de Mayo, Provincia de Buenos Aires representada por el Sr. Intendente Dr. Ángel Hernán Horacio Ralinqueo, DNI N° 31.196.090 y la Universidad Nacional de Tres de Febrero con domicilio legal en la calle Gral. Enrique Mosconi N° 2736 de la Localidad de Sáenz Peña, Provincia de Buenos Aires, representada por el Rector Lic. Aníbal Y. Jozami DNI N° 7.594.721, con el objeto del dictado del Ciclo 2 de la Licenciatura en Enfermería aprobado por Resolución del Consejo Superior N° 025/2019 por parte de la UNTREF en la Localidad de 25 de Mayo, Provincia de Buenos Aires, con el financiamiento y apoyo de infraestructura y personal administrativo a cargo de la Municipalidad.
+Artículo 2º: Se adjunta como Anexo I y pasa a formar parte de la presente Ordenanza, el CONVENIO ESPECÍFICO CELEBRADO ENTRE LA UNIVERIDAD NACIONAL DE TRES DE FEBRERO Y LA MUNICIPALIDAD DE 25 DE MAYO.
+Artículo 3º: Comuníquese al Departamento Ejecutivo.
