@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-veinticinco-de-mayo",
+  "code": "AR-B-VEINTICINCO-DE-MAYO",
+  "name": "Veinticinco de Mayo",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-veinticinco-de-mayo-city-law",
+  "build": "built: municipal ordinances (202 ordinances, 202 versions) from https://sibom.slyt.gba.gob.ar/cities/130",
+  "language": "es",
+  "sources": 1
+}
