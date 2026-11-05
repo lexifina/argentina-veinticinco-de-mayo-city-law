@@ -14,7 +14,7 @@ The text is in Spanish, exactly as the source prints it.
 | --- | --- | --- |
 | `ordenanza-3311-2017/` | Ordenanza 3311/2017: Autorizase al Municipio de 25 de Mayo a colocar en la vía pública de todo el territorio del Partido, volquetes/contenedores y cestos para e… | in force 21 December 2017 |
 | `ordenanza-3314-2017/` | Ordenanza 3314/2017: Constrúyase los reductores limitadores de velocidad según Ordenanza N° 3096/2011, en la calle denominada “Isnart” entre calle denominada “L… | in force 27 December 2017 |
-| `ordenanza-3316-2017/` | Ordenanza 3316/2017: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, qui… | in force 1 January 2018 |
+| `ordenanza-3316-2017/` | Ordenanza 3316/2017: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, qui… | in force 1 January 2018; repealed 2024-04-03 by Ordenanza 3541/2024 |
 | `ordenanza-3317-2017/` | Ordenanza 3317/2017: Convalídese el Convenio de Financiamiento para Infraestructura de Redes Públicas Domiciliarias e Intradomiciliarias de Servicios Básicos, O… | in force 4 January 2018 |
 | `ordenanza-3319-2017/` | Ordenanza 3319/2017: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2018 de la Municipalidad de 25 de Mayo, obrante a fs. 1 a 3, que asciende a la sum… | in force 4 January 2018 |
 | `ordenanza-3320-2017/` | Ordenanza 3320/2017: Apruébese el Formulario 1 de fs. 1 a fs. 1. | in force 4 January 2018 |
@@ -292,3 +292,5 @@ This is not an official publication. The binding text is the one published in th
 | Ordenanza 3498/2022 | 9 January 2023 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824947> |
 | Ordenanza 3499/2022 | 9 January 2023 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824964> |
 | Ordenanza 3500/2022 | 9 January 2023 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824972> |
+
+Explicit repeal dates are recorded when the official repealing instrument and its commencement are available; original published wording remains in history.
