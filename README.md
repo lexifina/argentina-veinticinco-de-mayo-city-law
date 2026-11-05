@@ -43,7 +43,7 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3386-2020/` | Ordenanza 3386/2020: Adhiérase a la Ley Provincial Nº 15.178 Emergencia Productiva, Económica, Financiera y Tarifaria de las Micro y Pequeñas Empresas, para con… | in force 3 December 2020 |
 | `ordenanza-3387-2020/` | Ordenanza 3387/2020: Convalídese el Convenio celebrado a los 6 días del mes de Octubre del año 2020, entre el MINISTERIO DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS… | in force 5 December 2020 |
 | `ordenanza-3388-2020/` | Ordenanza 3388/2020: Convalídese el Convenio de Pago celebrado entre PROVINCIA ASEGURADORA DE RIESGOS DEL TRABAJO S.A., CUIT 30-68825409-0, con domicilio legal … | in force 5 December 2020 |
-| `ordenanza-3397-2021/` | Ordenanza 3397/2020: Autorizase la Ordenanza Fiscal e Impositiva año 2021, según el Anexo I - Fiscal y el Anexo II - Impositiva, que forman parte de la presente… | in force 6 February 2021 |
+| `ordenanza-3397-2021/` | Ordenanza 3397/2021: Autorizase la Ordenanza Fiscal e Impositiva año 2021, según el Anexo I - Fiscal y el Anexo II - Impositiva, que forman parte de la presente Ordenanza. | in force 6 February 2021 |
 | `ordenanza-3398-2021/` | Ordenanza 3398/2021: Apruébese el modelo de Convenio de Complementación de Servicios entre el Sr. Intendente Municipal y el Ministerio de Justicia y Derechos Hu… | in force 6 March 2021 |
 | `ordenanza-3401-2021/` | Ordenanza 3401/2021: Autorícese la ampliación presupuestaria del Presupuesto de recursos y gastos del Ente Descentralizado Hospital Saturnino E. Unzué Ejercicio… | in force 16 June 2021 |
 | `ordenanza-3403-2021/` | Ordenanza 3403/2021: Aceptar la Donación del Obispado de Nueve de Julio a favor de la Municipalidad de 25 de Mayo de los inmuebles donde funciona el Hogar de An… | in force 16 June 2021 |
@@ -313,3 +313,5 @@ This is not an official publication. The binding text is the one published in th
 Explicit repeal dates are recorded when the official repealing instrument and its commencement are available; original published wording remains in history.
 
 Source-linked textual annexes are included for the ordinances identified in the annex correction parts. Scanned annexes and normative maps remain incomplete pending their recorded review or image holds.
+
+The 3397 citation remains the published label while the conflicting official HTML/PDF years await a human determination. Native annex tables retain aligned internal lines, including the salary grids.
