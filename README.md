@@ -137,7 +137,7 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3526-2023/` | Ordenanza 3526/2023: Modifíquese el Artículo 1° de la Ordenanza Complementaria correspondiente a la Ordenanza Nº 3499/2022, el que quedará redactado de la sigui… | in force 10 December 2023 |
 | `ordenanza-3527-2023/` | Ordenanza 3527/2023: Modificase el Artículo 1º de la Ordenanza Complementaria Nº 3498/2022, el que quedará redactado de la siguiente manera: | in force 10 December 2023 |
 | `ordenanza-3528-2023/` | Ordenanza 3528/2023: Designase con el nombre de “Presidente Raúl Ricardo Alfonsín” a la Sala de Prensa, contigua al Recinto de Sesiones, del Honorable Concejo D… | in force 10 December 2023 |
-| `ordenanza-3530-2024/` | Ordenanza 3530/2024: Convalidase el Decreto Municipal N° 820/2023 que prevé la derogación de la Ordenanza N° 3447/2022. | in force 29 March 2024 |
+| `ordenanza-3530-2024/` | Ordenanza 3530/2023: Convalidase el Decreto Municipal N° 820/2023 que prevé la derogación de la Ordenanza N° 3447/2022. | in force 29 March 2024 |
 | `ordenanza-3532-2024/` | Ordenanza 3532/2024: Convalídese el Decreto N° 816/2023 por el cual se separa de sus funciones a los Funcionarios de Ley Jonathan Emanuel Sibona, DNI Nº 34.589.… | in force 29 March 2024 |
 | `ordenanza-3534-2024/` | Ordenanza 3534/2024: Apruébese el Formulario 1 de fs. 1 a fs. 1. | in force 29 March 2024 |
 | `ordenanza-3535-2024/` | Ordenanza 3535/2024: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2024 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 11.240.000.000… | in force 29 March 2024 |
@@ -173,7 +173,7 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3580-2025/` | Ordenanza 3580/2025: Impóngase el nombre de “Dr. Modesto Pacifico Montecchia”, a la totalidad del trazado de la Calle 33 de la ciudad de 25 de Mayo. | in force 1 October 2025 |
 | `ordenanza-3584-2025/` | Ordenanza 3584/2025: Convalídense los Contratos de Locación celebrados con la Municipalidad de 25 de Mayo, durante el año 2024 con las Personas y/o Empresas men… | in force 1 October 2025 |
 | `ordenanza-3585-2025/` | Ordenanza 3585/2025: Convalídese el Decreto N° 758/2024 del Departamento Ejecutivo que adjudica a Toledo Carlos Aníbal y Otros la Licitación Pública Nº 8/2024 s… | in force 1 October 2025 |
-| `ordenanza-3586-2025/` | Ordenanza 3586/2025: Modifíquese el Artículo N° 3 de la Ordenanza Nº3345/2018, referente a establecimientos de engorde intensivo de ganado bovino/bubalino, el q… | in force 1 October 2025 |
+| `ordenanza-3586-2025/` | Ordenanza 3586/2024: Modifíquese el Artículo N° 3 de la Ordenanza Nº3345/2018, referente a establecimientos de engorde intensivo de ganado bovino/bubalino, el q… | in force 1 October 2025 |
 | `ordenanza-3589-2025/` | Ordenanza 3589/2025: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2025 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 28.500.000,000… | in force 1 October 2025 |
 | `ordenanza-3590-2025/` | Ordenanza 3590/2025: Modifíquese el Artículo N° 1 de la Ordenanza Complementaria correspondiente a la Ordenanza N° 3535/2023 el que quedará redactado de la sigu… | in force 1 October 2025 |
 | `ordenanza-3591-2025/` | Ordenanza 3591/2025: Modifíquese la Ordenanza Nº 3534/2023, Complementaria del Presupuesto 2024 del Ente Descentralizado Hospital Saturnino E. Unzué, en los Art… | in force 1 October 2025 |
