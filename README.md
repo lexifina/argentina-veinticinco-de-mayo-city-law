@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-226 ordinances so far, in force from 21 December 2017 to 4 November 2026, each as published in the Boletín Oficial Municipal de Veinticinco de Mayo, added in parts.
+239 ordinances so far, in force from 21 December 2017 to 4 November 2026, each as published in the Boletín Oficial Municipal de Veinticinco de Mayo, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -240,6 +240,20 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3488-2022/` | Ordenanza 3488/2022 | oldest published text, in force 2023-01-18 |
 | `ordenanza-3514-2023/` | Ordenanza 3514/2023 | oldest published text, in force 2023-10-11 |
 
+| `ordenanza-3491-2022/` | Ordenanza 3491/2022 | oldest published text, in force 2023-01-18 |
+| `ordenanza-3493-2022/` | Ordenanza 3493/2022 | oldest published text, in force 2023-01-18 |
+| `ordenanza-3494-2022/` | Ordenanza 3494/2022 | oldest published text, in force 2023-01-18 |
+| `ordenanza-3506-2023/` | Ordenanza 3506/2023 | oldest published text, in force 2023-05-21 |
+| `ordenanza-3509-2023/` | Ordenanza 3509/2023 | oldest published text, in force 2023-07-26 |
+| `ordenanza-3529-2023/` | Ordenanza 3529/2023 | oldest published text, in force 2024-03-29 |
+| `ordenanza-3531-2023/` | Ordenanza 3531/2023 | oldest published text, in force 2024-03-29 |
+| `ordenanza-3537-2024/` | Ordenanza 3537/2024 | oldest published text, in force 2024-03-29 |
+| `ordenanza-3545-2024/` | Ordenanza 3545/2024 | oldest published text, in force 2024-05-02 |
+| `ordenanza-3555-2024/` | Ordenanza 3555/2024 | oldest published text, in force 2024-06-09 |
+| `ordenanza-3559-2024/` | Ordenanza 3559/2024 | oldest published text, in force 2024-07-14 |
+| `ordenanza-3570-2024/` | Ordenanza 3570/2024 | oldest published text, in force 2024-09-20 |
+| `ordenanza-3601-2025/` | Ordenanza 3601/2025 | oldest published text, in force 2025-10-01 |
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Veinticinco de Mayo, <https://sibom.slyt.gba.gob.ar/cities/130>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -251,6 +265,8 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 - Versions that take effect after the retrieval day are on the `futuro` branch, never merged into `main`.
 
 ## Files
+
+Additional records use `<ordinance>/texto.md` for the complete text as published. Textual tables keep their source row and column order. No earlier wording or consolidated current text is inferred.
 
 Additional records use `<ordinance>/texto.md` for the complete text as published. Textual tables keep their source row and column order. No earlier wording or consolidated current text is inferred.
 
