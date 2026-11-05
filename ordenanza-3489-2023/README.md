@@ -1,6 +1,6 @@
-# Ordenanza 3489/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Ingeniero Osvaldo MELIENDREZ para la provisión de mano de obra, materiales y demás elementos necesarios destinados a la ejecución de la obra “R
+# Ordenanza 3489/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Ingeniero Osvaldo MELIENDREZ para la provisión de mano de obra, materiales y demás elementos necesarios destinados a la ejecución de la obra “R
 
-Ordenanza 3489/2023 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824790>
+Ordenanza 3489/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824790>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

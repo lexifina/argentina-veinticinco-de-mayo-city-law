@@ -226,6 +226,230 @@
     "ordenanza-3651-2026"
    ],
    "sha256": "ae2ce3b677cb2b65b26e373022b79259646e4c839bde9a0ef773201c9c1597a0"
+  },
+  "35-q241-missing-ordinances.json": {
+   "acts": [
+    "ordenanza-14-2018",
+    "ordenanza-3320-2017-complementaria",
+    "ordenanza-3321-2017",
+    "ordenanza-3366-2020",
+    "ordenanza-3373-2020",
+    "ordenanza-3375-2020",
+    "ordenanza-3379-2020",
+    "ordenanza-3380-2020",
+    "ordenanza-3399-2021",
+    "ordenanza-3416-2021",
+    "ordenanza-3425-2021",
+    "ordenanza-3426-2021",
+    "ordenanza-3428-2021",
+    "ordenanza-3432-2021",
+    "ordenanza-3440-2021",
+    "ordenanza-3450-2022",
+    "ordenanza-3452-2022",
+    "ordenanza-3457-2022",
+    "ordenanza-3464-2022",
+    "ordenanza-3468-2022",
+    "ordenanza-3470-2022",
+    "ordenanza-3476-2022",
+    "ordenanza-3488-2022",
+    "ordenanza-3514-2023"
+   ],
+   "sha256": "150389e31d0e7cb5269bdceb589e6524bab92c41d7c09d91ce32e8e3f695dd3c"
+  },
+  "36-q241-missing-ordinances.json": {
+   "acts": [
+    "ordenanza-3491-2022",
+    "ordenanza-3493-2022",
+    "ordenanza-3494-2022",
+    "ordenanza-3506-2023",
+    "ordenanza-3509-2023",
+    "ordenanza-3529-2023",
+    "ordenanza-3531-2023",
+    "ordenanza-3537-2024",
+    "ordenanza-3545-2024",
+    "ordenanza-3555-2024",
+    "ordenanza-3559-2024",
+    "ordenanza-3570-2024",
+    "ordenanza-3601-2025"
+   ],
+   "sha256": "6185e1ae74bd5d2976bdd79895f28a0c72498253e76af09871aa03b4a3f96d13"
+  },
+  "37-q241-missing-ordinances.json": {
+   "acts": [
+    "ordenanza-15-2018",
+    "ordenanza-3312-2017",
+    "ordenanza-3318-2017",
+    "ordenanza-3361-2020",
+    "ordenanza-3363-2020",
+    "ordenanza-3368-2020",
+    "ordenanza-3371-2020",
+    "ordenanza-3377-2020",
+    "ordenanza-3381-2020",
+    "ordenanza-3385-2020",
+    "ordenanza-3474-2022",
+    "ordenanza-3481-2022",
+    "ordenanza-3581-2024",
+    "ordenanza-3582-2024"
+   ],
+   "sha256": "b942813253792ef44d7887b7688dcffc4407e0e18882a61658cf067226ee7c60"
+  },
+  "90-q241-citation-3530.json": {
+   "acts": [
+    "ordenanza-3530-2024"
+   ],
+   "sha256": "94d2d79c9cce5e0b88796b500f55c10600259dec31f07fb9d9b9a2713185651f"
+  },
+  "91-q241-citation-3586.json": {
+   "acts": [
+    "ordenanza-3586-2025"
+   ],
+   "sha256": "85035855526430299293b11f938fbd41853b6e747ddaecaad59ae28d25a3dcf9"
+  },
+  "93-q241-citations-31.json": {
+   "acts": [
+    "ordenanza-3487-2023",
+    "ordenanza-3489-2023",
+    "ordenanza-3490-2023",
+    "ordenanza-3492-2023",
+    "ordenanza-3495-2023",
+    "ordenanza-3497-2023",
+    "ordenanza-3498-2023",
+    "ordenanza-3499-2023"
+   ],
+   "sha256": "f74eb130521663e0b308eb096b8fd13c169bcc1b4422c5e0dfd91bc565715c7f"
+  },
+  "94-q241-citations-32.json": {
+   "acts": [
+    "ordenanza-3500-2023",
+    "ordenanza-3532-2024",
+    "ordenanza-3534-2024",
+    "ordenanza-3535-2024"
+   ],
+   "sha256": "f04fa6170a60753cc6d2eb0ed7f9120f64e6b705803f4600598a8eaad4917a2c"
+  },
+  "95-q241-citations-33.json": {
+   "acts": [
+    "ordenanza-3577-2025",
+    "ordenanza-3578-2025",
+    "ordenanza-3579-2025",
+    "ordenanza-3580-2025",
+    "ordenanza-3584-2025",
+    "ordenanza-3585-2025",
+    "ordenanza-3589-2025",
+    "ordenanza-3590-2025",
+    "ordenanza-3591-2025",
+    "ordenanza-3615-2026",
+    "ordenanza-3616-2026",
+    "ordenanza-3617-2026",
+    "ordenanza-3618-2026",
+    "ordenanza-3619-2026",
+    "ordenanza-3620-2026",
+    "ordenanza-3623-2026",
+    "ordenanza-3625-2026"
+   ],
+   "sha256": "b4e30b3d89291060df1abfc0c8c955796030748de1d8964a8d320226624ec97e"
+  },
+  "96-q241-commencement-3541.json": {
+   "acts": [
+    "ordenanza-3541-2024"
+   ],
+   "sha256": "8e34995c3a00f5038306c9854f7b5d90be3ee41565704ecb43915ac3ba9bf180"
+  },
+  "97-q241-repeal-3316.json": {
+   "acts": [
+    "ordenanza-3316-2017"
+   ],
+   "sha256": "28030b7db421734df5fb4f204d1271364b6b1bfbeccfa1e6d4c4ff35a068cfe8"
+  },
+  "99e-q241-annex-lines-31.json": {
+   "acts": [
+    "ordenanza-3430-2021"
+   ],
+   "sha256": "a2519ca973a1fae8764554ac45c14a9800934edf05713c852fa99235ab90f20d"
+  },
+  "99f-q241-annex-lines-93.json": {
+   "acts": [
+    "ordenanza-3497-2023"
+   ],
+   "sha256": "61ae418937def4ea03178a11c77cab43cf4490713898f8ddd5dc8e87a9e2a44b"
+  },
+  "99g-q241-annex-lines-94.json": {
+   "acts": [
+    "ordenanza-3534-2024",
+    "ordenanza-3535-2024"
+   ],
+   "sha256": "c4713d3d090f196aed15c766dc056e118c4107584cf565bf1e09d031622af33c"
+  },
+  "99h-q241-citations-30-resolved.json": {
+   "acts": [
+    "ordenanza-3322-2018",
+    "ordenanza-3323-2018",
+    "ordenanza-3324-2018",
+    "ordenanza-3340-2019"
+   ],
+   "sha256": "c9515e34c1758d6763ee485b31f376eda409047415ab4bc379debe719cb3fe57"
+  },
+  "99i-q241-date-basis-90.json": {
+   "acts": [
+    "ordenanza-3530-2024"
+   ],
+   "sha256": "4ad3f2c6770119bb83a53964f4189ef3055baf10095b1470800a48db5108df15"
+  },
+  "99j-q241-date-basis-91.json": {
+   "acts": [
+    "ordenanza-3586-2025"
+   ],
+   "sha256": "5f4eb2741aa7ccec46085d060e85f5f3a57e5276c87966a05036f473301e7d19"
+  },
+  "99k-q241-date-basis-93.json": {
+   "acts": [
+    "ordenanza-3487-2023",
+    "ordenanza-3489-2023",
+    "ordenanza-3490-2023",
+    "ordenanza-3492-2023",
+    "ordenanza-3495-2023",
+    "ordenanza-3498-2023",
+    "ordenanza-3499-2023"
+   ],
+   "sha256": "ee7e4bfcf1341b107b4c1facbb347fce6ba4ed35e43ab8a6c80b66c5cf113d2b"
+  },
+  "99l-q241-date-basis-94.json": {
+   "acts": [
+    "ordenanza-3500-2023",
+    "ordenanza-3532-2024"
+   ],
+   "sha256": "e84b35dfc6bca6707e8b47fa626a73df8bfcf494f2c1a774dd3e60991560d086"
+  },
+  "99m-q241-date-basis-95.json": {
+   "acts": [
+    "ordenanza-3577-2025",
+    "ordenanza-3578-2025",
+    "ordenanza-3579-2025",
+    "ordenanza-3580-2025",
+    "ordenanza-3584-2025",
+    "ordenanza-3585-2025",
+    "ordenanza-3589-2025",
+    "ordenanza-3590-2025",
+    "ordenanza-3591-2025",
+    "ordenanza-3615-2026",
+    "ordenanza-3616-2026",
+    "ordenanza-3617-2026",
+    "ordenanza-3618-2026",
+    "ordenanza-3619-2026",
+    "ordenanza-3620-2026",
+    "ordenanza-3623-2026",
+    "ordenanza-3625-2026"
+   ],
+   "sha256": "d050b723fa9ec8a02d78cd8de622242bd3cc4870e6c831f750a9049ff931b255"
+  },
+  "99n-q241-date-basis-99h.json": {
+   "acts": [
+    "ordenanza-3322-2018",
+    "ordenanza-3323-2018",
+    "ordenanza-3324-2018",
+    "ordenanza-3340-2019"
+   ],
+   "sha256": "c7d3f0e70a01305376df55c899cca146d71080196925a9a581a76cd5ef1fdc37"
   }
  },
  "schema": 1

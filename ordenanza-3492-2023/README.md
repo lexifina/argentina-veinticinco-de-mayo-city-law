@@ -1,6 +1,6 @@
-# Ordenanza 3492/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa “COOPERATIVA DE TRABAJO ABRIGO Y ESPERANZA LTDA” para la provisión de mano de obra, materiales y demás elementos necesarios destinados 
+# Ordenanza 3492/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa “COOPERATIVA DE TRABAJO ABRIGO Y ESPERANZA LTDA” para la provisión de mano de obra, materiales y demás elementos necesarios destinados 
 
-Ordenanza 3492/2023 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824832>
+Ordenanza 3492/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824832>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

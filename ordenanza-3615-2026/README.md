@@ -1,6 +1,6 @@
-# Ordenanza 3615/2026: Créase el Banco de Leña Municipal bajo la órbita de la Secretaría de Desarrollo Humano en la Municipalidad de 25 de Mayo.
+# Ordenanza 3615/2025: Créase el Banco de Leña Municipal bajo la órbita de la Secretaría de Desarrollo Humano en la Municipalidad de 25 de Mayo.
 
-Ordenanza 3615/2026 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459364>
+Ordenanza 3615/2025 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459364>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
-# Ordenanza 3618/2026: Convalídese el “Convenio de Colaboración” celebrado entre la Autoridad del Agua de la Provincia de Buenos Aires, representado en este acto por el Señor Presidente, Ingeniero Damián Matías Costamagna y la Municipalidad de
+# Ordenanza 3618/2025: Convalídese el “Convenio de Colaboración” celebrado entre la Autoridad del Agua de la Provincia de Buenos Aires, representado en este acto por el Señor Presidente, Ingeniero Damián Matías Costamagna y la Municipalidad de
 
-Ordenanza 3618/2026 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459369>
+Ordenanza 3618/2025 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459369>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

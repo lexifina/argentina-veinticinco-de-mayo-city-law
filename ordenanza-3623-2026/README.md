@@ -1,6 +1,6 @@
-# Ordenanza 3623/2026: Convalídense los siguientes Convenios celebrados en el año 2022 por la Municipalidad 25 de Mayo; el “Convenio Marco de Cooperación Institucional y Asistencia Técnica” y el “Convenio de Cooperación y Asistencia Técnica”, 
+# Ordenanza 3623/2025: Convalídense los siguientes Convenios celebrados en el año 2022 por la Municipalidad 25 de Mayo; el “Convenio Marco de Cooperación Institucional y Asistencia Técnica” y el “Convenio de Cooperación y Asistencia Técnica”, 
 
-Ordenanza 3623/2026 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459403>
+Ordenanza 3623/2025 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459403>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

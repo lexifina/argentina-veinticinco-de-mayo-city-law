@@ -1,6 +1,6 @@
-# Ordenanza 3500/2023: Apruébese el Formulario 1 de fs. 1 a fs. 2.
+# Ordenanza 3500/2022: Apruébese el Formulario 1 de fs. 1 a fs. 2.
 
-Ordenanza 3500/2023 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824977>
+Ordenanza 3500/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824977>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

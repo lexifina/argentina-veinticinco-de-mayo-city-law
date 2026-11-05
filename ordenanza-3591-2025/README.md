@@ -1,6 +1,6 @@
-# Ordenanza 3591/2025: Modifíquese la Ordenanza Nº 3534/2023, Complementaria del Presupuesto 2024 del Ente Descentralizado Hospital Saturnino E. Unzué, en los Artículos enumerados a continuación, los que quedarán redactados de la siguiente man
+# Ordenanza 3591/2024: Modifíquese la Ordenanza Nº 3534/2023, Complementaria del Presupuesto 2024 del Ente Descentralizado Hospital Saturnino E. Unzué, en los Artículos enumerados a continuación, los que quedarán redactados de la siguiente man
 
-Ordenanza 3591/2025 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2272609>
+Ordenanza 3591/2024 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2272609>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

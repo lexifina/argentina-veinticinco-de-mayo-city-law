@@ -1,6 +1,6 @@
-# Ordenanza 3324/2018: Autorizase al Departamento Ejecutivo a suscribir el Convenio con el Ministerio de Salud de la Provincia de Buenos Aires, conforme a las cláusulas y condiciones que surgen de la documentación que como Anexo se incorpora y
+# Ordenanza 3324/2017: Autorizase al Departamento Ejecutivo a suscribir el Convenio con el Ministerio de Salud de la Provincia de Buenos Aires, conforme a las cláusulas y condiciones que surgen de la documentación que como Anexo se incorpora y
 
-Ordenanza 3324/2018 · 1 versions, from 2018-02-03 (latest in force: 2018-02-03) · <https://sibom.slyt.gba.gob.ar/bulletins/658/contents/1184299>
+Ordenanza 3324/2017 · 1 versions, from 2018-02-03 (latest in force: 2018-02-03) · <https://sibom.slyt.gba.gob.ar/bulletins/658/contents/1184299>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

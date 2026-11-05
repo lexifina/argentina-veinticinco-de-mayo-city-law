@@ -1,6 +1,6 @@
 # Ordenanza 3541/2024: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, quienes estarán a cargo de las siguientes Secretarías:
 
-Ordenanza 3541/2024 · 1 versions, from 2024-04-23 (latest in force: 2024-04-23) · <https://sibom.slyt.gba.gob.ar/bulletins/10500/contents/2043874>
+Ordenanza 3541/2024 · 1 versions, from 2024-04-03 (latest in force: 2024-04-03) · <https://sibom.slyt.gba.gob.ar/bulletins/10500/contents/2043874>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

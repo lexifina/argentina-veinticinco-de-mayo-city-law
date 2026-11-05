@@ -1,6 +1,6 @@
-# Ordenanza 3580/2025: Impóngase el nombre de “Dr. Modesto Pacifico Montecchia”, a la totalidad del trazado de la Calle 33 de la ciudad de 25 de Mayo.
+# Ordenanza 3580/2024: Impóngase el nombre de “Dr. Modesto Pacifico Montecchia”, a la totalidad del trazado de la Calle 33 de la ciudad de 25 de Mayo.
 
-Ordenanza 3580/2025 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2270661>
+Ordenanza 3580/2024 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2270661>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

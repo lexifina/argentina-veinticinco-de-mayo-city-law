@@ -1,6 +1,6 @@
-# Ordenanza 3499/2023: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Comunal, el establecido para el básico de la Categoría Administrativo IV.
+# Ordenanza 3499/2022: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Comunal, el establecido para el básico de la Categoría Administrativo IV.
 
-Ordenanza 3499/2023 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824957>
+Ordenanza 3499/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824957>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

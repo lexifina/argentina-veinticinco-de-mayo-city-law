@@ -1,6 +1,6 @@
-# Ordenanza 3495/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa GERMANO S.R.L. para la provisión de 50 m³ de hormigón H21 destinado a la construcción de cordón cuneta y 110 m³ de hormigón H17 afectad
+# Ordenanza 3495/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa GERMANO S.R.L. para la provisión de 50 m³ de hormigón H21 destinado a la construcción de cordón cuneta y 110 m³ de hormigón H17 afectad
 
-Ordenanza 3495/2023 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824884>
+Ordenanza 3495/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824884>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

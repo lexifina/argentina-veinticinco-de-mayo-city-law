@@ -1,6 +1,6 @@
-# Ordenanza 3589/2025: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2025 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 28.500.000,000 (pesos veintiocho mil quinientos millones 00/100.-)
+# Ordenanza 3589/2024: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2025 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 28.500.000,000 (pesos veintiocho mil quinientos millones 00/100.-)
 
-Ordenanza 3589/2025 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2272584>
+Ordenanza 3589/2024 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2272584>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
-# Ordenanza 3586/2025: Modifíquese el Artículo N° 3 de la Ordenanza Nº3345/2018, referente a establecimientos de engorde intensivo de ganado bovino/bubalino, el que quedará redactado de la siguiente manera:
+# Ordenanza 3586/2024: Modifíquese el Artículo N° 3 de la Ordenanza Nº3345/2018, referente a establecimientos de engorde intensivo de ganado bovino/bubalino, el que quedará redactado de la siguiente manera:
 
-Ordenanza 3586/2025 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2272571>
+Ordenanza 3586/2024 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2272571>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

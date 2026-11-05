@@ -7,6 +7,15 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Veinticinco de Mayo | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| SIBOM: additional Veinticinco de Mayo ordinances | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-05 | Official municipal ordinances, reproduced with source attribution. The source states no restriction on reuse. |
+| SIBOM: additional Veinticinco de Mayo ordinances | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-05 | Official municipal ordinances, reproduced with source attribution. The source states no restriction on reuse. |
+| SIBOM: additional Veinticinco de Mayo ordinances | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-05 | Official municipal ordinances, reproduced with source attribution. The source states no restriction on reuse. |
+| SIBOM citation check: Ordenanza 3530/2023 | <https://sibom.slyt.gba.gob.ar/bulletins/10328/contents/2028755> | 2026-11-05 | Official municipal ordinance; reproduced with source attribution. |
+| SIBOM citation check: Ordenanza 3586/2024 | <https://sibom.slyt.gba.gob.ar/bulletins/13380/contents/2272571> | 2026-11-05 | Official municipal ordinance; reproduced with source attribution. |
+| SIBOM: official instrument citations | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-01 | Official municipal legal text; reproduced with source attribution. |
+| SIBOM: official instrument citations | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-01 | Official municipal legal text; reproduced with source attribution. |
+| SIBOM: official instrument citations | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-01 | Official municipal legal text; reproduced with source attribution. |
+| SIBOM: official instrument citations | <https://sibom.slyt.gba.gob.ar/cities/130> | 2026-11-01 | Official municipal legal text; reproduced with source attribution. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -16,19 +25,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | --- | --- | ---: | --- |
 | `ordenanza-3311-2017` | Ordenanza 3311/2017: Autorizase al Municipio de 25 de Mayo a colocar en la vía pública de todo el territorio del Partido, volquetes/contenedores y cestos para el acopio de residuos domiciliarios donde lo considere necesario, teniendo como re | 1 | 2017-12-21 to 2017-12-21 |
 | `ordenanza-3314-2017` | Ordenanza 3314/2017: Constrúyase los reductores limitadores de velocidad según Ordenanza N° 3096/2011, en la calle denominada “Isnart” entre calle denominada “Leopoldo Acuña” y calle denominada “Héctor Mansilla”, calle denominada “Isnart” en | 1 | 2017-12-27 to 2017-12-27 |
-| `ordenanza-3316-2017` | Ordenanza 3316/2017: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, quienes estarán a cargo de las siguientes Secretarías: | 1 | 2018-01-01 to 2018-01-01 |
+| `ordenanza-3316-2017` | Ordenanza 3316/2017: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, quienes estarán a cargo de las siguientes Secretarías: | 2 | 2018-01-01 to 2024-04-03 |
 | `ordenanza-3317-2017` | Ordenanza 3317/2017: Convalídese el Convenio de Financiamiento para Infraestructura de Redes Públicas Domiciliarias e Intradomiciliarias de Servicios Básicos, Obras Complementarias y/o equipamiento comunitario – Ley N° 14.449 de Acceso Justo | 1 | 2018-01-04 to 2018-01-04 |
 | `ordenanza-3319-2017` | Ordenanza 3319/2017: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2018 de la Municipalidad de 25 de Mayo, obrante a fs. 1 a 3, que asciende a la suma de Pesos Cuatrocientos cuarenta y siete millones ochocientos cincuenta y siete  | 1 | 2018-01-04 to 2018-01-04 |
 | `ordenanza-3320-2017` | Ordenanza 3320/2017: Apruébese el Formulario 1 de fs. 1 a fs. 1. | 1 | 2018-01-04 to 2018-01-04 |
-| `ordenanza-3322-2018` | Ordenanza 3322/2018: Apruébese el aumento de la partida del Presupuesto de Recursos del Ente Descentralizado “Saturnino E. Unzué”, aprobado por Ordenanza Municipal Nº 3275/2017, en un monto que asciende a $ 1.158.931,10 (un millón ciento cin | 1 | 2018-02-03 to 2018-02-03 |
-| `ordenanza-3323-2018` | Ordenanza 3323/2018: Modifíquese el Artículo N° 3 en su inciso “C” de la Ordenanza Complementaria del Presupuesto de Gastos y Cálculo de Recursos del Ejercicio 2017 (Ordenanza N° 3274/2017) el que quedará redactado de la siguiente manera: | 1 | 2018-02-03 to 2018-02-03 |
-| `ordenanza-3324-2018` | Ordenanza 3324/2018: Autorizase al Departamento Ejecutivo a suscribir el Convenio con el Ministerio de Salud de la Provincia de Buenos Aires, conforme a las cláusulas y condiciones que surgen de la documentación que como Anexo se incorpora y | 1 | 2018-02-03 to 2018-02-03 |
+| `ordenanza-3322-2018` | Ordenanza 3322/2017: Apruébese el aumento de la partida del Presupuesto de Recursos del Ente Descentralizado “Saturnino E. Unzué”, aprobado por Ordenanza Municipal Nº 3275/2017, en un monto que asciende a $ 1.158.931,10 (un millón ciento cin | 1 | 2018-02-03 to 2018-02-03 |
+| `ordenanza-3323-2018` | Ordenanza 3323/2017: Modifíquese el Artículo N° 3 en su inciso “C” de la Ordenanza Complementaria del Presupuesto de Gastos y Cálculo de Recursos del Ejercicio 2017 (Ordenanza N° 3274/2017) el que quedará redactado de la siguiente manera: | 1 | 2018-02-03 to 2018-02-03 |
+| `ordenanza-3324-2018` | Ordenanza 3324/2017: Autorizase al Departamento Ejecutivo a suscribir el Convenio con el Ministerio de Salud de la Provincia de Buenos Aires, conforme a las cláusulas y condiciones que surgen de la documentación que como Anexo se incorpora y | 1 | 2018-02-03 to 2018-02-03 |
 | `ordenanza-13-2018` | Ordenanza 13/2018: El Honorable Concejo Deliberante de Veinticinco de Mayo, resuelve rechazar la Rendición de Cuentas de la Municipalidad de 25 de Mayo, correspondiente al Ejercicio año 2017. | 1 | 2018-10-25 to 2018-10-25 |
 | `ordenanza-16-2018` | Ordenanza 16/2018: Solicitase al Departamento Ejecutivo realizar los trabajos de reparación y mantenimiento de los caminos rurales del Partido de 25 de Mayo. | 1 | 2018-10-25 to 2018-10-25 |
 | `ordenanza-17-2018` | Ordenanza 17/2018: Solicitase al Departamento Ejecutivo que realice los trabajos que correspondan para solucionar los inconvenientes de escurrimiento y transitabilidad de la calle 202 bis entre 33 y 35, de la ciudad de 25 de Mayo de forma  | 1 | 2018-10-25 to 2018-10-25 |
 | `ordenanza-18-2018` | Ordenanza 18/2018: El Honorable Concejo Deliberante de 25 de Mayo ratifica la total adhesión al régimen de partidos políticos normado en la Constitución Nacional, como expresión republicana y representativa de la vida democrática y exhorta | 1 | 2018-10-25 to 2018-10-25 |
 | `ordenanza-3326-2018` | Ordenanza 3326/2018: Declárese de Interés Legislativo Municipal la conmemoración del Centenario de la Reforma Universitaria del año1918. | 1 | 2018-10-25 to 2018-10-25 |
-| `ordenanza-3340-2019` | Ordenanza 3340/2019: OBJETO. Es objeto de la presente Ordenanza la protección de la salud humana, el medio ambiente y la producción agropecuaria sustentable a través de la correcta, racional y responsable utilización de los productos fitosan | 1 | 2019-03-16 to 2019-03-16 |
+| `ordenanza-3340-2019` | Ordenanza 3340/2018: OBJETO. Es objeto de la presente Ordenanza la protección de la salud humana, el medio ambiente y la producción agropecuaria sustentable a través de la correcta, racional y responsable utilización de los productos fitosan | 1 | 2019-03-16 to 2019-03-16 |
 | `ordenanza-3360-2020` | Ordenanza 3360/2020: Autorizase la ampliación del Cálculo de Recursos de libre disponibilidad (aprobado por Ordenanza Municipal Nº 3349/2019), por la suma de $ 28.470.069,52 (veintiocho millones cuatrocientos setenta mil sesenta y nueve con  | 1 | 2020-08-10 to 2020-08-10 |
 | `ordenanza-3362-2020` | Ordenanza 3362/2020: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Comunal, el establecido para el básico de la Categoría Administrativo IV. | 1 | 2020-08-10 to 2020-08-10 |
 | `ordenanza-3364-2020` | Ordenanza 3364/2020: Convalídese la creación de la “Escuela Municipal de Carnaval” y la declaración de Interés Municipal de la misma, decretada como tal a través del Decreto Municipal N° 9/2014 de fecha 23 de Enero de 2014, cuya copia certif | 1 | 2020-08-10 to 2020-08-10 |
@@ -106,15 +115,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3484-2022` | Ordenanza 3484/2022: PROHÍBASE dentro de la jurisdicción del Partido de Veinticinco de Mayo el tránsito de motocicletas, ciclomotores, automotores y/o cualquier otro vehículo destinado al transporte de personas y/o cosas, de cualquier cilind | 1 | 2023-01-05 to 2023-01-05 |
 | `ordenanza-3485-2022` | Ordenanza 3485/2022: Apruébese dentro del plan de regularización de la Ordenanza Municipal Nº 3138/2012 – CÓDIGO DE ORDENAMIENTO URBANO TERRITORIAL (INFORME FINAL VOLUMEN II) para la Localidad de 25 de Mayo, el cambio de área de la Parcela c | 1 | 2023-01-05 to 2023-01-05 |
 | `ordenanza-3486-2022` | Ordenanza 3486/2022: Convalídese el CONVENIO ADENDA, celebrado el día 28 de Noviembre de 2022, entre el MINISTERIO DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS DE LA PROVINCIA DE BUENOS AIRES representado por el Sr. Ministro Nardini, Leonardo Jav | 1 | 2023-01-05 to 2023-01-05 |
-| `ordenanza-3487-2023` | Ordenanza 3487/2023: Convalídese el Convenio de Consorcio Urbanístico celebrado entre el señor Alberto GOSTOROGARAY ANDORNO DNI Nº 17.100.613 con domicilio en la calle Emilio Mitre N° 245 de la ciudad de Martínez y la Municipalidad de 25 de  | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3489-2023` | Ordenanza 3489/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Ingeniero Osvaldo MELIENDREZ para la provisión de mano de obra, materiales y demás elementos necesarios destinados a la ejecución de la obra “R | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3490-2023` | Ordenanza 3490/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Sr. Jorge PORTILLA para la provisión de mano de obra, materiales y demás elementos necesarios destinados a la ejecución de la “segunda etapa de | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3492-2023` | Ordenanza 3492/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa “COOPERATIVA DE TRABAJO ABRIGO Y ESPERANZA LTDA” para la provisión de mano de obra, materiales y demás elementos necesarios destinados  | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3495-2023` | Ordenanza 3495/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa GERMANO S.R.L. para la provisión de 50 m³ de hormigón H21 destinado a la construcción de cordón cuneta y 110 m³ de hormigón H17 afectad | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3497-2023` | Ordenanza 3497/2023: Modifíquese el Artículo 1º de la Ordenanza Nº3431/2021 Ordenanza Complementaria del Ente Descentralizado Hospital “Saturnino E. Unzué” año 2022 que quedara redactado de la siguiente manera: | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3498-2023` | Ordenanza 3498/2023: Fijase como sueldo mínimo para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración comunal el establecido para el básico de la categoría de Administrativo 4. | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3499-2023` | Ordenanza 3499/2023: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Comunal, el establecido para el básico de la Categoría Administrativo IV. | 1 | 2023-01-18 to 2023-01-18 |
-| `ordenanza-3500-2023` | Ordenanza 3500/2023: Apruébese el Formulario 1 de fs. 1 a fs. 2. | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3487-2023` | Ordenanza 3487/2022: Convalídese el Convenio de Consorcio Urbanístico celebrado entre el señor Alberto GOSTOROGARAY ANDORNO DNI Nº 17.100.613 con domicilio en la calle Emilio Mitre N° 245 de la ciudad de Martínez y la Municipalidad de 25 de  | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3489-2023` | Ordenanza 3489/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Ingeniero Osvaldo MELIENDREZ para la provisión de mano de obra, materiales y demás elementos necesarios destinados a la ejecución de la obra “R | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3490-2023` | Ordenanza 3490/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Sr. Jorge PORTILLA para la provisión de mano de obra, materiales y demás elementos necesarios destinados a la ejecución de la “segunda etapa de | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3492-2023` | Ordenanza 3492/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa “COOPERATIVA DE TRABAJO ABRIGO Y ESPERANZA LTDA” para la provisión de mano de obra, materiales y demás elementos necesarios destinados  | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3495-2023` | Ordenanza 3495/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa GERMANO S.R.L. para la provisión de 50 m³ de hormigón H21 destinado a la construcción de cordón cuneta y 110 m³ de hormigón H17 afectad | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3497-2023` | Ordenanza 3497/2022: Modifíquese el Artículo 1º de la Ordenanza Nº3431/2021 Ordenanza Complementaria del Ente Descentralizado Hospital “Saturnino E. Unzué” año 2022 que quedara redactado de la siguiente manera: | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3498-2023` | Ordenanza 3498/2022: Fijase como sueldo mínimo para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración comunal el establecido para el básico de la categoría de Administrativo 4. | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3499-2023` | Ordenanza 3499/2022: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Comunal, el establecido para el básico de la Categoría Administrativo IV. | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3500-2023` | Ordenanza 3500/2022: Apruébese el Formulario 1 de fs. 1 a fs. 2. | 1 | 2023-01-18 to 2023-01-18 |
 | `ordenanza-3501-2023` | Ordenanza 3501/2023: Declárase el Año 2023 como año de homenaje a los cuarenta años ininterrumpidos de Democracia. | 1 | 2023-04-22 to 2023-04-22 |
 | `ordenanza-3502-2023` | Ordenanza 3502/2023: Convalídese el Convenio de Contrato de Concesión de Servicio de Cremación y Comodato celebrado entre la empresa “CREMATORIO ETERNAL S.A.” representada legalmente por el Sr. Eduardo Javier LONGARINI DNI N° 17.758.037, en  | 1 | 2023-04-22 to 2023-04-22 |
 | `ordenanza-3503-2023` | Ordenanza 3503/2023: La presente Ordenanza tiene como objeto establecer como derecho humano el acceso al agua potable. | 1 | 2023-05-06 to 2023-05-06 |
@@ -139,12 +148,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3526-2023` | Ordenanza 3526/2023: Modifíquese el Artículo 1° de la Ordenanza Complementaria correspondiente a la Ordenanza Nº 3499/2022, el que quedará redactado de la siguiente manera: | 1 | 2023-12-10 to 2023-12-10 |
 | `ordenanza-3527-2023` | Ordenanza 3527/2023: Modificase el Artículo 1º de la Ordenanza Complementaria Nº 3498/2022, el que quedará redactado de la siguiente manera: | 1 | 2023-12-10 to 2023-12-10 |
 | `ordenanza-3528-2023` | Ordenanza 3528/2023: Designase con el nombre de “Presidente Raúl Ricardo Alfonsín” a la Sala de Prensa, contigua al Recinto de Sesiones, del Honorable Concejo Deliberante del Partido de 25 de Mayo sito en calle 27 y 10 de la ciudad de 25 de  | 1 | 2023-12-10 to 2023-12-10 |
-| `ordenanza-3530-2024` | Ordenanza 3530/2024: Convalidase el Decreto Municipal N° 820/2023 que prevé la derogación de la Ordenanza N° 3447/2022. | 1 | 2024-03-29 to 2024-03-29 |
-| `ordenanza-3532-2024` | Ordenanza 3532/2024: Convalídese el Decreto N° 816/2023 por el cual se separa de sus funciones a los Funcionarios de Ley Jonathan Emanuel Sibona, DNI Nº 34.589.715, Legajo N° 3025 y Corina Jazmín Candebat DNI N° 26.906.954, Legajo N° 1669 de | 1 | 2024-03-29 to 2024-03-29 |
-| `ordenanza-3534-2024` | Ordenanza 3534/2024: Apruébese el Formulario 1 de fs. 1 a fs. 1. | 1 | 2024-03-29 to 2024-03-29 |
-| `ordenanza-3535-2024` | Ordenanza 3535/2024: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2024 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 11.240.000.000,00 (Pesos once mil doscientos cuarenta millones con 0/100.-) | 1 | 2024-03-29 to 2024-03-29 |
+| `ordenanza-3530-2024` | Ordenanza 3530/2023: Convalidase el Decreto Municipal N° 820/2023 que prevé la derogación de la Ordenanza N° 3447/2022. | 1 | 2024-03-29 to 2024-03-29 |
+| `ordenanza-3532-2024` | Ordenanza 3532/2023: Convalídese el Decreto N° 816/2023 por el cual se separa de sus funciones a los Funcionarios de Ley Jonathan Emanuel Sibona, DNI Nº 34.589.715, Legajo N° 3025 y Corina Jazmín Candebat DNI N° 26.906.954, Legajo N° 1669 de | 1 | 2024-03-29 to 2024-03-29 |
+| `ordenanza-3534-2024` | Ordenanza 3534/2023: Apruébese el Formulario 1 de fs. 1 a fs. 1. | 1 | 2024-03-29 to 2024-03-29 |
+| `ordenanza-3535-2024` | Ordenanza 3535/2023: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2024 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 11.240.000.000,00 (Pesos once mil doscientos cuarenta millones con 0/100.-) | 1 | 2024-03-29 to 2024-03-29 |
 | `ordenanza-3536-2024` | Ordenanza 3536/2024: Impleméntese en el Partido de Veinticinco de Mayo, el “Programa Integral de Educación y Seguridad Vial” conteniendo reglas de circulación, seguridad y protección al peatón, el que tendrá como objetivos: | 1 | 2024-03-29 to 2024-03-29 |
-| `ordenanza-3541-2024` | Ordenanza 3541/2024: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, quienes estarán a cargo de las siguientes Secretarías: | 1 | 2024-04-23 to 2024-04-23 |
+| `ordenanza-3541-2024` | Ordenanza 3541/2024: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, quienes estarán a cargo de las siguientes Secretarías: | 1 | 2024-04-03 to 2024-04-03 |
 | `ordenanza-3538-2024` | Ordenanza 3538/2024: El día 02 de abril de cada año la Municipalidad de 25 de Mayo realizará un Acto Central en conmemoración a los Veteranos y Caídos en la Guerra por la recuperación de las Islas Malvinas, en la Plaza Héroes de Malvinas de  | 1 | 2024-05-02 to 2024-05-02 |
 | `ordenanza-3539-2024` | Ordenanza 3539/2024: Adhiérase la Municipalidad de 25 de Mayo a la Ley Provincial N° 15.094 por la cual se establece un Régimen Legal para el Ejercicio Profesional de los Técnicos en Emergencias Médicas. | 1 | 2024-05-02 to 2024-05-02 |
 | `ordenanza-3540-2024` | Ordenanza 3540/2024: Derógase la Ordenanza N° 3482/2022. | 1 | 2024-05-02 to 2024-05-02 |
@@ -169,16 +178,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3575-2024` | Ordenanza 3575/2024: Autorízase al Colegio San José de 25 de Mayo a colocar una imagen de la Madre Camila junto a una breve reseña histórica, a través de un código QR, en la Capilla del Hospital “Saturnino E. Unzué” de la ciudad de 25 de May | 1 | 2024-12-27 to 2024-12-27 |
 | `ordenanza-3576-2024` | Ordenanza 3576/2024: Prohíbase en el Partido de 25 de Mayo, la utilización, tenencia, acopio, depósito, exhibición, fabricación, detonación, comercialización y/o expendio a título gratuito u oneroso, al público minorista o mayorista de artif | 1 | 2024-12-27 to 2024-12-27 |
 | `ordenanza-3574-2024` | Ordenanza 3574/2024: Deróguense las Ordenanzas N° 2404/1995 de conformación del “Ente Descentralizado Hospital Saturnino E. Unzué”, y sus modificatorias N° 3165/2013 y N° 3461/2022. | 1 | 2025-01-08 to 2025-01-08 |
-| `ordenanza-3577-2025` | Ordenanza 3577/2025: Modifícase la Ordenanza N° 3422/2021, que impone números y nombres a las calles de la Localidad de Norberto de La Riestra, incorporando al Anexo II la siguiente modificación: Desígnase a la Calle N° 201 con el nombre de  | 1 | 2025-02-20 to 2025-02-20 |
-| `ordenanza-3578-2025` | Ordenanza 3578/2025: Adhiérase la Municipalidad de 25 de Mayo a la Ley Provincial Nº 15.491, que da marco legal al tratamiento de la enfermedad llamada “Endometriosis” en el ámbito de la Provincia de Buenos Aires, con motivo de garantizar el | 1 | 2025-02-20 to 2025-02-20 |
-| `ordenanza-3579-2025` | Ordenanza 3579/2025: OBJETO. El objeto de la presente Ordenanza es la tutela de la salubridad pública de los vecinos del Partido de Veinticinco de Mayo (B), mediante la prevención, control y reducción de la contaminación acústica que afecta  | 1 | 2025-02-20 to 2025-02-20 |
-| `ordenanza-3580-2025` | Ordenanza 3580/2025: Impóngase el nombre de “Dr. Modesto Pacifico Montecchia”, a la totalidad del trazado de la Calle 33 de la ciudad de 25 de Mayo. | 1 | 2025-10-01 to 2025-10-01 |
-| `ordenanza-3584-2025` | Ordenanza 3584/2025: Convalídense los Contratos de Locación celebrados con la Municipalidad de 25 de Mayo, durante el año 2024 con las Personas y/o Empresas mencionados a continuación: | 1 | 2025-10-01 to 2025-10-01 |
-| `ordenanza-3585-2025` | Ordenanza 3585/2025: Convalídese el Decreto N° 758/2024 del Departamento Ejecutivo que adjudica a Toledo Carlos Aníbal y Otros la Licitación Pública Nº 8/2024 según consta en Expediente Municipal N° 4118-03514/2024, para la compra de un maci | 1 | 2025-10-01 to 2025-10-01 |
-| `ordenanza-3586-2025` | Ordenanza 3586/2025: Modifíquese el Artículo N° 3 de la Ordenanza Nº3345/2018, referente a establecimientos de engorde intensivo de ganado bovino/bubalino, el que quedará redactado de la siguiente manera: | 1 | 2025-10-01 to 2025-10-01 |
-| `ordenanza-3589-2025` | Ordenanza 3589/2025: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2025 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 28.500.000,000 (pesos veintiocho mil quinientos millones 00/100.-) | 1 | 2025-10-01 to 2025-10-01 |
-| `ordenanza-3590-2025` | Ordenanza 3590/2025: Modifíquese el Artículo N° 1 de la Ordenanza Complementaria correspondiente a la Ordenanza N° 3535/2023 el que quedará redactado de la siguiente manera: | 1 | 2025-10-01 to 2025-10-01 |
-| `ordenanza-3591-2025` | Ordenanza 3591/2025: Modifíquese la Ordenanza Nº 3534/2023, Complementaria del Presupuesto 2024 del Ente Descentralizado Hospital Saturnino E. Unzué, en los Artículos enumerados a continuación, los que quedarán redactados de la siguiente man | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3577-2025` | Ordenanza 3577/2024: Modifícase la Ordenanza N° 3422/2021, que impone números y nombres a las calles de la Localidad de Norberto de La Riestra, incorporando al Anexo II la siguiente modificación: Desígnase a la Calle N° 201 con el nombre de  | 1 | 2025-02-20 to 2025-02-20 |
+| `ordenanza-3578-2025` | Ordenanza 3578/2024: Adhiérase la Municipalidad de 25 de Mayo a la Ley Provincial Nº 15.491, que da marco legal al tratamiento de la enfermedad llamada “Endometriosis” en el ámbito de la Provincia de Buenos Aires, con motivo de garantizar el | 1 | 2025-02-20 to 2025-02-20 |
+| `ordenanza-3579-2025` | Ordenanza 3579/2024: OBJETO. El objeto de la presente Ordenanza es la tutela de la salubridad pública de los vecinos del Partido de Veinticinco de Mayo (B), mediante la prevención, control y reducción de la contaminación acústica que afecta  | 1 | 2025-02-20 to 2025-02-20 |
+| `ordenanza-3580-2025` | Ordenanza 3580/2024: Impóngase el nombre de “Dr. Modesto Pacifico Montecchia”, a la totalidad del trazado de la Calle 33 de la ciudad de 25 de Mayo. | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3584-2025` | Ordenanza 3584/2024: Convalídense los Contratos de Locación celebrados con la Municipalidad de 25 de Mayo, durante el año 2024 con las Personas y/o Empresas mencionados a continuación: | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3585-2025` | Ordenanza 3585/2024: Convalídese el Decreto N° 758/2024 del Departamento Ejecutivo que adjudica a Toledo Carlos Aníbal y Otros la Licitación Pública Nº 8/2024 según consta en Expediente Municipal N° 4118-03514/2024, para la compra de un maci | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3586-2025` | Ordenanza 3586/2024: Modifíquese el Artículo N° 3 de la Ordenanza Nº3345/2018, referente a establecimientos de engorde intensivo de ganado bovino/bubalino, el que quedará redactado de la siguiente manera: | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3589-2025` | Ordenanza 3589/2024: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2025 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 28.500.000,000 (pesos veintiocho mil quinientos millones 00/100.-) | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3590-2025` | Ordenanza 3590/2024: Modifíquese el Artículo N° 1 de la Ordenanza Complementaria correspondiente a la Ordenanza N° 3535/2023 el que quedará redactado de la siguiente manera: | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3591-2025` | Ordenanza 3591/2024: Modifíquese la Ordenanza Nº 3534/2023, Complementaria del Presupuesto 2024 del Ente Descentralizado Hospital Saturnino E. Unzué, en los Artículos enumerados a continuación, los que quedarán redactados de la siguiente man | 1 | 2025-10-01 to 2025-10-01 |
 | `ordenanza-3592-2025` | Ordenanza 3592/2025: Convalídese en todos sus términos el Decreto N°165/2025 del Departamento Ejecutivo, por el cual la Municipalidad de 25 de Mayo declara de Utilidad Pública, Interés Público, General y Social la traza del camino del Terrap | 1 | 2025-10-01 to 2025-10-01 |
 | `ordenanza-3593-2025` | Ordenanza 3593/2025: Modifíquese el Artículo N° 1 de la Ordenanza Municipal Nº 2779/2004 el que quedará redactado de la siguiente manera: | 1 | 2025-10-01 to 2025-10-01 |
 | `ordenanza-3594-2025` | Ordenanza 3594/2025: Impóngase el nombre de “Paseo de la Salud Papa Francisco” al espacio público comprendido entre la Avenida 36 y la Calle 37 y desde la Calle 12 hasta la Avenida de Circunvalación 204 de la ciudad de 25 de Mayo, conocido c | 1 | 2025-10-01 to 2025-10-01 |
@@ -187,14 +196,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3605-2025` | Ordenanza 3605/2025: Deróguese la Ordenanza N° 3533/2023. | 1 | 2025-11-26 to 2025-11-26 |
 | `ordenanza-3609-2025` | Ordenanza 3609/2025: Adhiérase la Municipalidad de 25 de Mayo a la Ley Provincial Nº 10.499/1987 y modificaciones, por la cual se adhirió a la Ley Nacional N° 26.588 y modificatorias. | 1 | 2026-01-08 to 2026-01-08 |
 | `ordenanza-3611-2025` | Ordenanza 3611/2025: Créase en el ámbito del Municipio de 25 de Mayo el Programa Municipal de Prevención y Difusión Ginecológica Gratuita, destinado a mujeres con residencia permanente en el Distrito. | 1 | 2026-01-08 to 2026-01-08 |
-| `ordenanza-3615-2026` | Ordenanza 3615/2026: Créase el Banco de Leña Municipal bajo la órbita de la Secretaría de Desarrollo Humano en la Municipalidad de 25 de Mayo. | 1 | 2026-11-04 to 2026-11-04 |
-| `ordenanza-3616-2026` | Ordenanza 3616/2026: Facultase al Departamento Ejecutivo Municipal a colocar la señalética de tránsito correspondiente y vigente en la Localidad de Martín Berraondo en el tramo de la Ruta Provincial Nº40 comprendido en su ejido urbano. | 1 | 2026-11-04 to 2026-11-04 |
-| `ordenanza-3617-2026` | Ordenanza 3617/2026: Créase la Plataforma Digital “Agenda Virtual de Contactos de Oficios y Profesiones” del Distrito de 25 de Mayo, como herramienta de acceso público y gratuito para los ciudadanos. | 1 | 2026-11-04 to 2026-11-04 |
-| `ordenanza-3618-2026` | Ordenanza 3618/2026: Convalídese el “Convenio de Colaboración” celebrado entre la Autoridad del Agua de la Provincia de Buenos Aires, representado en este acto por el Señor Presidente, Ingeniero Damián Matías Costamagna y la Municipalidad de | 1 | 2026-11-04 to 2026-11-04 |
-| `ordenanza-3619-2026` | Ordenanza 3619/2026: Declárese “Patrimonio Cultural e Histórico del Distrito de 25 de Mayo” el edificio de la “Sociedad Protectora del Hogar de Ancianos de 25 de Mayo” ubicado en calle 24 entre 15 y 16 de la ciudad de 25 de Mayo. | 1 | 2026-11-04 to 2026-11-04 |
-| `ordenanza-3620-2026` | Ordenanza 3620/2026: Declárese el año 2026 como año del “Coral 25 de Mayo” que celebra su 70° Aniversario. | 1 | 2026-11-04 to 2026-11-04 |
-| `ordenanza-3623-2026` | Ordenanza 3623/2026: Convalídense los siguientes Convenios celebrados en el año 2022 por la Municipalidad 25 de Mayo; el “Convenio Marco de Cooperación Institucional y Asistencia Técnica” y el “Convenio de Cooperación y Asistencia Técnica”,  | 1 | 2026-11-04 to 2026-11-04 |
-| `ordenanza-3625-2026` | Ordenanza 3625/2026: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2026 de la Municipalidad de 25 de Mayo, que asciende a la suma de $39.900.000.000,00 (Pesos Treinta y nueve mil novecientos millones con 0/100.-). | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3615-2026` | Ordenanza 3615/2025: Créase el Banco de Leña Municipal bajo la órbita de la Secretaría de Desarrollo Humano en la Municipalidad de 25 de Mayo. | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3616-2026` | Ordenanza 3616/2025: Facultase al Departamento Ejecutivo Municipal a colocar la señalética de tránsito correspondiente y vigente en la Localidad de Martín Berraondo en el tramo de la Ruta Provincial Nº40 comprendido en su ejido urbano. | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3617-2026` | Ordenanza 3617/2025: Créase la Plataforma Digital “Agenda Virtual de Contactos de Oficios y Profesiones” del Distrito de 25 de Mayo, como herramienta de acceso público y gratuito para los ciudadanos. | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3618-2026` | Ordenanza 3618/2025: Convalídese el “Convenio de Colaboración” celebrado entre la Autoridad del Agua de la Provincia de Buenos Aires, representado en este acto por el Señor Presidente, Ingeniero Damián Matías Costamagna y la Municipalidad de | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3619-2026` | Ordenanza 3619/2025: Declárese “Patrimonio Cultural e Histórico del Distrito de 25 de Mayo” el edificio de la “Sociedad Protectora del Hogar de Ancianos de 25 de Mayo” ubicado en calle 24 entre 15 y 16 de la ciudad de 25 de Mayo. | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3620-2026` | Ordenanza 3620/2025: Declárese el año 2026 como año del “Coral 25 de Mayo” que celebra su 70° Aniversario. | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3623-2026` | Ordenanza 3623/2025: Convalídense los siguientes Convenios celebrados en el año 2022 por la Municipalidad 25 de Mayo; el “Convenio Marco de Cooperación Institucional y Asistencia Técnica” y el “Convenio de Cooperación y Asistencia Técnica”,  | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3625-2026` | Ordenanza 3625/2025: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2026 de la Municipalidad de 25 de Mayo, que asciende a la suma de $39.900.000.000,00 (Pesos Treinta y nueve mil novecientos millones con 0/100.-). | 1 | 2026-11-04 to 2026-11-04 |
 | `ordenanza-3627-2026` | Ordenanza 3627/2026: Declárase “Patrimonio Cultural e Histórico del Distrito de 25 de Mayo” el edificio que corresponde a la Ex Escuela Profesional, ubicado en calle 27 entre 10 y 11 de la ciudad de 25 de Mayo, perteneciente al Comité Cultur | 1 | 2026-11-04 to 2026-11-04 |
 | `ordenanza-3629-2026` | Ordenanza 3629/2026: Créase la “Mesa Local de Abordaje Integral de problemáticas juveniles”, con el objetivo de diseñar, coordinar y monitorear estrategias locales de cuidado y asistencia integral para adolescentes de 12 a 21 años. | 1 | 2026-11-04 to 2026-11-04 |
 | `ordenanza-3630-2026` | Ordenanza 3630/2026: Autorízase en todo el ámbito del Partido de 25 de Mayo la instalación y utilización de biodigestores domiciliarios como sistema de tratamiento de efluentes cloacales y residuos orgánicos biodegradables provenientes de vi | 1 | 2026-11-04 to 2026-11-04 |
@@ -216,20 +225,71 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3649-2026` | Ordenanza 3649/2026: Convalídese la adjudicación y/o regularización dominial de la parcela ubicada en el Sector Industrial Planificado “Dr. Manuel Belgrano”, con nomenclatura catastral: Circunscripción II, Sección B, Chacra 196, Fracción I,  | 1 | 2026-11-04 to 2026-11-04 |
 | `ordenanza-3650-2026` | Ordenanza 3650/2026: Convalídese la adjudicación y/o regularización dominial de las parcelas ubicadas en el Sector Industrial Planificado “Dr. Manuel Belgrano”, con nomenclatura catastral: Circunscripción II, Sección B, Chacra 196, Fracción  | 1 | 2026-11-04 to 2026-11-04 |
 | `ordenanza-3651-2026` | Ordenanza 3651/2026: Todo comercio minorista que comercialice Gas Licuado de Petróleo (GLP) envasado, dentro del Partido de 25 de Mayo deberá ajustarse estrictamente a los límites de almacenamiento y condiciones técnicas establecidos por la  | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-3320-2017-complementaria` | Ordenanza 3320/2017 complementaria | 1 | 2018-01-04 to 2018-01-04 |
+| `ordenanza-3321-2017` | Ordenanza 3321/2017 | 1 | 2018-02-03 to 2018-02-03 |
+| `ordenanza-14-2018` | Ordenanza 14/2018 | 1 | 2018-10-25 to 2018-10-25 |
+| `ordenanza-3366-2020` | Ordenanza 3366/2020 | 1 | 2020-08-10 to 2020-08-10 |
+| `ordenanza-3373-2020` | Ordenanza 3373/2020 | 1 | 2020-08-13 to 2020-08-13 |
+| `ordenanza-3375-2020` | Ordenanza 3375/2020 | 1 | 2020-08-13 to 2020-08-13 |
+| `ordenanza-3379-2020` | Ordenanza 3379/2020 | 1 | 2020-09-25 to 2020-09-25 |
+| `ordenanza-3380-2020` | Ordenanza 3380/2020 | 1 | 2020-09-25 to 2020-09-25 |
+| `ordenanza-3399-2021` | Ordenanza 3399/2021 | 1 | 2021-05-21 to 2021-05-21 |
+| `ordenanza-3416-2021` | Ordenanza 3416/2021 | 1 | 2021-10-03 to 2021-10-03 |
+| `ordenanza-3425-2021` | Ordenanza 3425/2021 | 1 | 2021-12-30 to 2021-12-30 |
+| `ordenanza-3426-2021` | Ordenanza 3426/2021 | 1 | 2021-12-30 to 2021-12-30 |
+| `ordenanza-3428-2021` | Ordenanza 3428/2021 | 1 | 2021-12-30 to 2021-12-30 |
+| `ordenanza-3432-2021` | Ordenanza 3432/2021 | 1 | 2021-12-30 to 2021-12-30 |
+| `ordenanza-3440-2021` | Ordenanza 3440/2021 | 1 | 2022-01-13 to 2022-01-13 |
+| `ordenanza-3450-2022` | Ordenanza 3450/2022 | 1 | 2022-05-29 to 2022-05-29 |
+| `ordenanza-3452-2022` | Ordenanza 3452/2022 | 1 | 2022-06-09 to 2022-06-09 |
+| `ordenanza-3457-2022` | Ordenanza 3457/2022 | 1 | 2022-08-20 to 2022-08-20 |
+| `ordenanza-3464-2022` | Ordenanza 3464/2022 | 1 | 2022-09-30 to 2022-09-30 |
+| `ordenanza-3468-2022` | Ordenanza 3468/2022 | 1 | 2022-10-12 to 2022-10-12 |
+| `ordenanza-3470-2022` | Ordenanza 3470/2022 | 1 | 2022-10-23 to 2022-10-23 |
+| `ordenanza-3476-2022` | Ordenanza 3476/2022 | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-3488-2022` | Ordenanza 3488/2022 | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3514-2023` | Ordenanza 3514/2023 | 1 | 2023-10-11 to 2023-10-11 |
+| `ordenanza-3491-2022` | Ordenanza 3491/2022 | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3493-2022` | Ordenanza 3493/2022 | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3494-2022` | Ordenanza 3494/2022 | 1 | 2023-01-18 to 2023-01-18 |
+| `ordenanza-3506-2023` | Ordenanza 3506/2023 | 1 | 2023-05-21 to 2023-05-21 |
+| `ordenanza-3509-2023` | Ordenanza 3509/2023 | 1 | 2023-07-26 to 2023-07-26 |
+| `ordenanza-3529-2023` | Ordenanza 3529/2023 | 1 | 2024-03-29 to 2024-03-29 |
+| `ordenanza-3531-2023` | Ordenanza 3531/2023 | 1 | 2024-03-29 to 2024-03-29 |
+| `ordenanza-3537-2024` | Ordenanza 3537/2024 | 1 | 2024-03-29 to 2024-03-29 |
+| `ordenanza-3545-2024` | Ordenanza 3545/2024 | 1 | 2024-05-02 to 2024-05-02 |
+| `ordenanza-3555-2024` | Ordenanza 3555/2024 | 1 | 2024-06-09 to 2024-06-09 |
+| `ordenanza-3559-2024` | Ordenanza 3559/2024 | 1 | 2024-07-14 to 2024-07-14 |
+| `ordenanza-3570-2024` | Ordenanza 3570/2024 | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-3601-2025` | Ordenanza 3601/2025 | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3312-2017` | Ordenanza 3312/2017 | 1 | 2017-12-27 to 2017-12-27 |
+| `ordenanza-3318-2017` | Ordenanza 3318/2017 | 1 | 2018-01-04 to 2018-01-04 |
+| `ordenanza-15-2018` | Ordenanza 15/2018 | 1 | 2018-10-25 to 2018-10-25 |
+| `ordenanza-3361-2020` | Ordenanza 3361/2020 | 1 | 2020-08-10 to 2020-08-10 |
+| `ordenanza-3363-2020` | Ordenanza 3363/2020 | 1 | 2020-08-10 to 2020-08-10 |
+| `ordenanza-3368-2020` | Ordenanza 3368/2020 | 1 | 2020-08-10 to 2020-08-10 |
+| `ordenanza-3371-2020` | Ordenanza 3371/2020 | 1 | 2020-08-13 to 2020-08-13 |
+| `ordenanza-3377-2020` | Ordenanza 3377/2020 | 1 | 2020-09-25 to 2020-09-25 |
+| `ordenanza-3381-2020` | Ordenanza 3381/2020 | 1 | 2020-09-25 to 2020-09-25 |
+| `ordenanza-3385-2020` | Ordenanza 3385/2020 | 1 | 2020-12-03 to 2020-12-03 |
+| `ordenanza-3474-2022` | Ordenanza 3474/2022 | 1 | 2022-11-05 to 2022-11-05 |
+| `ordenanza-3481-2022` | Ordenanza 3481/2022 | 1 | 2022-12-14 to 2022-12-14 |
+| `ordenanza-3581-2024` | Ordenanza 3581/2024 | 1 | 2025-10-01 to 2025-10-01 |
+| `ordenanza-3582-2024` | Ordenanza 3582/2024 | 1 | 2025-10-01 to 2025-10-01 |
 
-The build made 231 commits:
+The build made 320 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 231 | first version of an act |
-| 0 | one law on its in-force day |
+| 282 | first version of an act |
+| 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 29 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 202 laws in the record.
-- 405 tags.
+- 289 laws in the record.
+- 457 tags.
 
 ## Dates
 
@@ -241,13 +301,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9856aca5adfa3734a978dc45b298b6cdc189f9e3a02202de36344316899be66f` (1207161 bytes).
+- Corpus: sha256 `5b9958630d9822e7eb7789bc2f03d08d62eb79e6e93f09a2c9f38e93435ec514` (2324658 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-202 versions of 202 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -258,6 +318,39 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Additional source-listed ordinances are represented by their complete published text in one file per instrument. Each source publication date and any own vigencia clause determine the version date. No current consolidated text or earlier wording is invented.
+- Citation years come from each official text heading, including complementary instruments.
+- Additional source-listed ordinances are represented by their complete published text in one file per instrument. Each source publication date and any own vigencia clause determine the version date. No current consolidated text or earlier wording is invented.
+- Citation years come from each official text heading, including complementary instruments.
+- Additional source-listed ordinances are represented by their complete published text in one file per instrument. Each source publication date and any own vigencia clause determine the version date. No current consolidated text or earlier wording is invented.
+- Citation years come from each official text heading, including complementary instruments.
+- Official SIBOM heading identifies Ordenanza 3530/2023; the earlier corpus citation used the publication year. Historical act path, wording and version date are retained.
+- Official SIBOM heading identifies Ordenanza 3586/2024; the earlier corpus citation used the publication year. Historical act path, wording and version date are retained.
+- Correct citation years supplied by official text headings, retaining historical paths, wording, dates and original source hashes.
+- Correct citation years supplied by official text headings, retaining historical paths, wording, dates and original source hashes.
+- Correct citation years supplied by official text headings, retaining historical paths, wording, dates and original source hashes.
+- Commencement follows the ordinance own article 17 and the dated official promulgation decree, instead of the default ninth day after publication. No law words are changed.
+- The prior ordinance is expressly repealed by Ordinance 3541/2024; a dated empty version removes its operative files while retaining its original historical wording. No synthetic repeal notice is inserted in law text.
+- Native official PDF annexes retain source table cells and source-aligned internal lines, including empty lines across columns. Every line is compared in order against native PDF glyph coordinates; complete native source words are independently checked with pypdf. Law text is not authored or corrected by a model. Original non-annex legal units and dates are retained, with explicit source-backed In-force-basis.
+- Whole scanned pages, unconfirmed promulgation-dependent provisions, maps and native reader disagreements are held separately. Only decorative municipal crests occur in these accepted annexes.
+- Native official PDF annexes retain source table cells and source-aligned internal lines, including empty lines across columns. Every line is compared in order against native PDF glyph coordinates; complete native source words are independently checked with pypdf. Law text is not authored or corrected by a model. Original non-annex legal units and dates are retained, with explicit source-backed In-force-basis.
+- Whole scanned pages, unconfirmed promulgation-dependent provisions, maps and native reader disagreements are held separately. Only decorative municipal crests occur in these accepted annexes.
+- Native official PDF annexes retain source table cells and source-aligned internal lines, including empty lines across columns. Every line is compared in order against native PDF glyph coordinates; complete native source words are independently checked with pypdf. Law text is not authored or corrected by a model. Original non-annex legal units and dates are retained, with explicit source-backed In-force-basis.
+- Whole scanned pages, unconfirmed promulgation-dependent provisions, maps and native reader disagreements are held separately. Only decorative municipal crests occur in these accepted annexes.
+- Correct citation years supplied by official text headings, retaining historical paths, wording, dates and original source hashes.
+- The conflicting 3397/2020 versus 3397/2021 source citation is held outside this correction. Its unchanged published label remains pending a human determination.
+- Source-backed commencement bases are added to the existing citation/provenance corrections. Official bulletin dates are independently read from raw listing rows; the existing date and every published legal-text unit are unchanged.
+- The unresolved 3397 citation remains held outside these proposed changes.
+- Source-backed commencement bases are added to the existing citation/provenance corrections. Official bulletin dates are independently read from raw listing rows; the existing date and every published legal-text unit are unchanged.
+- The unresolved 3397 citation remains held outside these proposed changes.
+- Source-backed commencement bases are added to the existing citation/provenance corrections. Official bulletin dates are independently read from raw listing rows; the existing date and every published legal-text unit are unchanged.
+- The unresolved 3397 citation remains held outside these proposed changes.
+- Source-backed commencement bases are added to the existing citation/provenance corrections. Official bulletin dates are independently read from raw listing rows; the existing date and every published legal-text unit are unchanged.
+- The unresolved 3397 citation remains held outside these proposed changes.
+- Source-backed commencement bases are added to the existing citation/provenance corrections. Official bulletin dates are independently read from raw listing rows; the existing date and every published legal-text unit are unchanged.
+- The unresolved 3397 citation remains held outside these proposed changes.
+- Source-backed commencement bases are added to the existing citation/provenance corrections. Official bulletin dates are independently read from raw listing rows; the existing date and every published legal-text unit are unchanged.
+- The unresolved 3397 citation remains held outside these proposed changes.
 
 ## What AI did and did not do
 
@@ -269,3 +362,23 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote the extraction and independent comparison code and inspected source metadata. No model generated or corrected law text.
+- GPT-6 wrote the extraction and independent comparison code and inspected source metadata. No model generated or corrected law text.
+- GPT-6 wrote the extraction and independent comparison code and inspected source metadata. No model generated or corrected law text.
+- GPT-6 wrote the citation comparison and correction code; it wrote no law text.
+- GPT-6 wrote the citation comparison and correction code; it wrote no law text.
+- GPT-6 wrote metadata comparisons and correction code. No law text was generated or changed.
+- GPT-6 wrote metadata comparisons and correction code. No law text was generated or changed.
+- GPT-6 wrote metadata comparisons and correction code. No law text was generated or changed.
+- GPT-6 wrote source-date extraction and independent comparisons; no generated or corrected law text.
+- GPT-6 encoded the official repeal and compared dates against both official instruments; no generated law words.
+- GPT-6 wrote extraction and independent verification code and classified decorative images; no OCR or generated/corrected law words.
+- GPT-6 wrote extraction and independent verification code and classified decorative images; no OCR or generated/corrected law words.
+- GPT-6 wrote extraction and independent verification code and classified decorative images; no OCR or generated/corrected law words.
+- GPT-6 wrote metadata comparisons and correction code. No law text was generated or changed.
+- GPT-6 wrote metadata extraction and verification code; no law text or OCR word was generated or corrected.
+- GPT-6 wrote metadata extraction and verification code; no law text or OCR word was generated or corrected.
+- GPT-6 wrote metadata extraction and verification code; no law text or OCR word was generated or corrected.
+- GPT-6 wrote metadata extraction and verification code; no law text or OCR word was generated or corrected.
+- GPT-6 wrote metadata extraction and verification code; no law text or OCR word was generated or corrected.
+- GPT-6 wrote metadata extraction and verification code; no law text or OCR word was generated or corrected.

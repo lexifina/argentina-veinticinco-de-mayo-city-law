@@ -1,9 +1,10 @@
-# Ordenanza 3535/2024: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2024 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 11.240.000.000,00 (Pesos once mil doscientos cuarenta millones con 0/100.-)
+# Ordenanza 3535/2023: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2024 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 11.240.000.000,00 (Pesos once mil doscientos cuarenta millones con 0/100.-)
 
-Ordenanza 3535/2024 · 1 versions, from 2024-03-29 (latest in force: 2024-03-29) · <https://sibom.slyt.gba.gob.ar/bulletins/10328/contents/2028771>
+Ordenanza 3535/2023 · 1 versions, from 2024-03-29 (latest in force: 2024-03-29) · <https://sibom.slyt.gba.gob.ar/bulletins/10328/contents/2028771>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Ordenanza N° 3535/2023 | [annex-36605.md](annex-36605.md) | 0 |  |
 | Artículo 1 | [art-001.md](art-001.md) | 0 |  |
 | Artículo 2 | [art-002.md](art-002.md) | 0 |  |
 | Artículo 3 | [art-003.md](art-003.md) | 0 |  |

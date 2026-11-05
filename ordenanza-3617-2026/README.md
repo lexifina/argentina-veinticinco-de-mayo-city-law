@@ -1,6 +1,6 @@
-# Ordenanza 3617/2026: Créase la Plataforma Digital “Agenda Virtual de Contactos de Oficios y Profesiones” del Distrito de 25 de Mayo, como herramienta de acceso público y gratuito para los ciudadanos.
+# Ordenanza 3617/2025: Créase la Plataforma Digital “Agenda Virtual de Contactos de Oficios y Profesiones” del Distrito de 25 de Mayo, como herramienta de acceso público y gratuito para los ciudadanos.
 
-Ordenanza 3617/2026 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459367>
+Ordenanza 3617/2025 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459367>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

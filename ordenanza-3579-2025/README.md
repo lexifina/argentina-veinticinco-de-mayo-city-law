@@ -1,6 +1,6 @@
-# Ordenanza 3579/2025: OBJETO. El objeto de la presente Ordenanza es la tutela de la salubridad pública de los vecinos del Partido de Veinticinco de Mayo (B), mediante la prevención, control y reducción de la contaminación acústica que afecta 
+# Ordenanza 3579/2024: OBJETO. El objeto de la presente Ordenanza es la tutela de la salubridad pública de los vecinos del Partido de Veinticinco de Mayo (B), mediante la prevención, control y reducción de la contaminación acústica que afecta 
 
-Ordenanza 3579/2025 · 1 versions, from 2025-02-20 (latest in force: 2025-02-20) · <https://sibom.slyt.gba.gob.ar/bulletins/12246/contents/2177121>
+Ordenanza 3579/2024 · 1 versions, from 2025-02-20 (latest in force: 2025-02-20) · <https://sibom.slyt.gba.gob.ar/bulletins/12246/contents/2177121>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

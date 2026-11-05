@@ -1,9 +1,10 @@
-# Ordenanza 3534/2024: Apruébese el Formulario 1 de fs. 1 a fs. 1.
+# Ordenanza 3534/2023: Apruébese el Formulario 1 de fs. 1 a fs. 1.
 
-Ordenanza 3534/2024 · 1 versions, from 2024-03-29 (latest in force: 2024-03-29) · <https://sibom.slyt.gba.gob.ar/bulletins/10328/contents/2028762>
+Ordenanza 3534/2023 · 1 versions, from 2024-03-29 (latest in force: 2024-03-29) · <https://sibom.slyt.gba.gob.ar/bulletins/10328/contents/2028762>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Ordenanza N° 3434/2023 | [annex-36604.md](annex-36604.md) | 0 |  |
 | Artículo 1 | [art-001.md](art-001.md) | 0 |  |
 | Artículo 2 | [art-002.md](art-002.md) | 0 |  |
 | Artículo 3 | [art-003.md](art-003.md) | 0 |  |

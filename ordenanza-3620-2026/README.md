@@ -1,6 +1,6 @@
-# Ordenanza 3620/2026: Declárese el año 2026 como año del “Coral 25 de Mayo” que celebra su 70° Aniversario.
+# Ordenanza 3620/2025: Declárese el año 2026 como año del “Coral 25 de Mayo” que celebra su 70° Aniversario.
 
-Ordenanza 3620/2026 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459373>
+Ordenanza 3620/2025 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459373>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

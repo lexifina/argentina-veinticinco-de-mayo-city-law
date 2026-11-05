@@ -1,6 +1,6 @@
-# Ordenanza 3487/2023: Convalídese el Convenio de Consorcio Urbanístico celebrado entre el señor Alberto GOSTOROGARAY ANDORNO DNI Nº 17.100.613 con domicilio en la calle Emilio Mitre N° 245 de la ciudad de Martínez y la Municipalidad de 25 de 
+# Ordenanza 3487/2022: Convalídese el Convenio de Consorcio Urbanístico celebrado entre el señor Alberto GOSTOROGARAY ANDORNO DNI Nº 17.100.613 con domicilio en la calle Emilio Mitre N° 245 de la ciudad de Martínez y la Municipalidad de 25 de 
 
-Ordenanza 3487/2023 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824785>
+Ordenanza 3487/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824785>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

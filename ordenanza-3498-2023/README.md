@@ -1,6 +1,6 @@
-# Ordenanza 3498/2023: Fijase como sueldo mínimo para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración comunal el establecido para el básico de la categoría de Administrativo 4.
+# Ordenanza 3498/2022: Fijase como sueldo mínimo para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración comunal el establecido para el básico de la categoría de Administrativo 4.
 
-Ordenanza 3498/2023 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824939>
+Ordenanza 3498/2022 · 1 versions, from 2023-01-18 (latest in force: 2023-01-18) · <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824939>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
-# Ordenanza 3625/2026: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2026 de la Municipalidad de 25 de Mayo, que asciende a la suma de $39.900.000.000,00 (Pesos Treinta y nueve mil novecientos millones con 0/100.-).
+# Ordenanza 3625/2025: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2026 de la Municipalidad de 25 de Mayo, que asciende a la suma de $39.900.000.000,00 (Pesos Treinta y nueve mil novecientos millones con 0/100.-).
 
-Ordenanza 3625/2026 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459431>
+Ordenanza 3625/2025 · 1 versions, from 2026-11-04 (latest in force: 2026-11-04) · <https://sibom.slyt.gba.gob.ar/bulletins/15977/contents/2459431>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

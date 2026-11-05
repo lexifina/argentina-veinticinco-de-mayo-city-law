@@ -1,6 +1,6 @@
-# Ordenanza 3340/2019: OBJETO. Es objeto de la presente Ordenanza la protección de la salud humana, el medio ambiente y la producción agropecuaria sustentable a través de la correcta, racional y responsable utilización de los productos fitosan
+# Ordenanza 3340/2018: OBJETO. Es objeto de la presente Ordenanza la protección de la salud humana, el medio ambiente y la producción agropecuaria sustentable a través de la correcta, racional y responsable utilización de los productos fitosan
 
-Ordenanza 3340/2019 · 1 versions, from 2019-03-16 (latest in force: 2019-03-16) · <https://sibom.slyt.gba.gob.ar/bulletins/2008/contents/1304030>
+Ordenanza 3340/2018 · 1 versions, from 2019-03-16 (latest in force: 2019-03-16) · <https://sibom.slyt.gba.gob.ar/bulletins/2008/contents/1304030>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
