@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-202 ordinances so far, in force from 21 December 2017 to 4 November 2026, each as published in the Boletín Oficial Municipal de Veinticinco de Mayo, added in parts.
+226 ordinances so far, in force from 21 December 2017 to 4 November 2026, each as published in the Boletín Oficial Municipal de Veinticinco de Mayo, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -18,15 +18,15 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3317-2017/` | Ordenanza 3317/2017: Convalídese el Convenio de Financiamiento para Infraestructura de Redes Públicas Domiciliarias e Intradomiciliarias de Servicios Básicos, O… | in force 4 January 2018 |
 | `ordenanza-3319-2017/` | Ordenanza 3319/2017: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2018 de la Municipalidad de 25 de Mayo, obrante a fs. 1 a 3, que asciende a la sum… | in force 4 January 2018 |
 | `ordenanza-3320-2017/` | Ordenanza 3320/2017: Apruébese el Formulario 1 de fs. 1 a fs. 1. | in force 4 January 2018 |
-| `ordenanza-3322-2018/` | Ordenanza 3322/2018: Apruébese el aumento de la partida del Presupuesto de Recursos del Ente Descentralizado “Saturnino E. Unzué”, aprobado por Ordenanza Munici… | in force 3 February 2018 |
-| `ordenanza-3323-2018/` | Ordenanza 3323/2018: Modifíquese el Artículo N° 3 en su inciso “C” de la Ordenanza Complementaria del Presupuesto de Gastos y Cálculo de Recursos del Ejercicio … | in force 3 February 2018 |
-| `ordenanza-3324-2018/` | Ordenanza 3324/2018: Autorizase al Departamento Ejecutivo a suscribir el Convenio con el Ministerio de Salud de la Provincia de Buenos Aires, conforme a las clá… | in force 3 February 2018 |
+| `ordenanza-3322-2018/` | Ordenanza 3322/2017: Apruébese el aumento de la partida del Presupuesto de Recursos del Ente Descentralizado “Saturnino E. Unzué”, aprobado por Ordenanza Munici… | in force 3 February 2018 |
+| `ordenanza-3323-2018/` | Ordenanza 3323/2017: Modifíquese el Artículo N° 3 en su inciso “C” de la Ordenanza Complementaria del Presupuesto de Gastos y Cálculo de Recursos del Ejercicio … | in force 3 February 2018 |
+| `ordenanza-3324-2018/` | Ordenanza 3324/2017: Autorizase al Departamento Ejecutivo a suscribir el Convenio con el Ministerio de Salud de la Provincia de Buenos Aires, conforme a las clá… | in force 3 February 2018 |
 | `ordenanza-13-2018/` | Ordenanza 13/2018: El Honorable Concejo Deliberante de Veinticinco de Mayo, resuelve rechazar la Rendición de Cuentas de la Municipalidad de 25 de Mayo, corresp… | in force 25 October 2018 |
 | `ordenanza-16-2018/` | Ordenanza 16/2018: Solicitase al Departamento Ejecutivo realizar los trabajos de reparación y mantenimiento de los caminos rurales del Partido de 25 de Mayo. | in force 25 October 2018 |
 | `ordenanza-17-2018/` | Ordenanza 17/2018: Solicitase al Departamento Ejecutivo que realice los trabajos que correspondan para solucionar los inconvenientes de escurrimiento y transita… | in force 25 October 2018 |
 | `ordenanza-18-2018/` | Ordenanza 18/2018: El Honorable Concejo Deliberante de 25 de Mayo ratifica la total adhesión al régimen de partidos políticos normado en la Constitución Naciona… | in force 25 October 2018 |
 | `ordenanza-3326-2018/` | Ordenanza 3326/2018: Declárese de Interés Legislativo Municipal la conmemoración del Centenario de la Reforma Universitaria del año1918. | in force 25 October 2018 |
-| `ordenanza-3340-2019/` | Ordenanza 3340/2019: OBJETO. Es objeto de la presente Ordenanza la protección de la salud humana, el medio ambiente y la producción agropecuaria sustentable a t… | in force 16 March 2019 |
+| `ordenanza-3340-2019/` | Ordenanza 3340/2018: OBJETO. Es objeto de la presente Ordenanza la protección de la salud humana, el medio ambiente y la producción agropecuaria sustentable a t… | in force 16 March 2019 |
 | `ordenanza-3360-2020/` | Ordenanza 3360/2020: Autorizase la ampliación del Cálculo de Recursos de libre disponibilidad (aprobado por Ordenanza Municipal Nº 3349/2019), por la suma de $ … | in force 10 August 2020 |
 | `ordenanza-3362-2020/` | Ordenanza 3362/2020: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Com… | in force 10 August 2020 |
 | `ordenanza-3364-2020/` | Ordenanza 3364/2020: Convalídese la creación de la “Escuela Municipal de Carnaval” y la declaración de Interés Municipal de la misma, decretada como tal a travé… | in force 10 August 2020 |
@@ -43,7 +43,7 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3386-2020/` | Ordenanza 3386/2020: Adhiérase a la Ley Provincial Nº 15.178 Emergencia Productiva, Económica, Financiera y Tarifaria de las Micro y Pequeñas Empresas, para con… | in force 3 December 2020 |
 | `ordenanza-3387-2020/` | Ordenanza 3387/2020: Convalídese el Convenio celebrado a los 6 días del mes de Octubre del año 2020, entre el MINISTERIO DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS… | in force 5 December 2020 |
 | `ordenanza-3388-2020/` | Ordenanza 3388/2020: Convalídese el Convenio de Pago celebrado entre PROVINCIA ASEGURADORA DE RIESGOS DEL TRABAJO S.A., CUIT 30-68825409-0, con domicilio legal … | in force 5 December 2020 |
-| `ordenanza-3397-2021/` | Ordenanza 3397/2021: Autorizase la Ordenanza Fiscal e Impositiva año 2021, según el Anexo I - Fiscal y el Anexo II - Impositiva, que forman parte de la presente… | in force 6 February 2021 |
+| `ordenanza-3397-2021/` | Ordenanza 3397/2020: Autorizase la Ordenanza Fiscal e Impositiva año 2021, según el Anexo I - Fiscal y el Anexo II - Impositiva, que forman parte de la presente… | in force 6 February 2021 |
 | `ordenanza-3398-2021/` | Ordenanza 3398/2021: Apruébese el modelo de Convenio de Complementación de Servicios entre el Sr. Intendente Municipal y el Ministerio de Justicia y Derechos Hu… | in force 6 March 2021 |
 | `ordenanza-3401-2021/` | Ordenanza 3401/2021: Autorícese la ampliación presupuestaria del Presupuesto de recursos y gastos del Ente Descentralizado Hospital Saturnino E. Unzué Ejercicio… | in force 16 June 2021 |
 | `ordenanza-3403-2021/` | Ordenanza 3403/2021: Aceptar la Donación del Obispado de Nueve de Julio a favor de la Municipalidad de 25 de Mayo de los inmuebles donde funciona el Hogar de An… | in force 16 June 2021 |
@@ -104,15 +104,15 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3484-2022/` | Ordenanza 3484/2022: PROHÍBASE dentro de la jurisdicción del Partido de Veinticinco de Mayo el tránsito de motocicletas, ciclomotores, automotores y/o cualquier… | in force 5 January 2023 |
 | `ordenanza-3485-2022/` | Ordenanza 3485/2022: Apruébese dentro del plan de regularización de la Ordenanza Municipal Nº 3138/2012 – CÓDIGO DE ORDENAMIENTO URBANO TERRITORIAL (INFORME FIN… | in force 5 January 2023 |
 | `ordenanza-3486-2022/` | Ordenanza 3486/2022: Convalídese el CONVENIO ADENDA, celebrado el día 28 de Noviembre de 2022, entre el MINISTERIO DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS DE LA… | in force 5 January 2023 |
-| `ordenanza-3487-2023/` | Ordenanza 3487/2023: Convalídese el Convenio de Consorcio Urbanístico celebrado entre el señor Alberto GOSTOROGARAY ANDORNO DNI Nº 17.100.613 con domicilio en l… | in force 18 January 2023 |
-| `ordenanza-3489-2023/` | Ordenanza 3489/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Ingeniero Osvaldo MELIENDREZ para la provisión de mano de obra… | in force 18 January 2023 |
-| `ordenanza-3490-2023/` | Ordenanza 3490/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Sr. Jorge PORTILLA para la provisión de mano de obra, material… | in force 18 January 2023 |
-| `ordenanza-3492-2023/` | Ordenanza 3492/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa “COOPERATIVA DE TRABAJO ABRIGO Y ESPERANZA LTDA” para … | in force 18 January 2023 |
-| `ordenanza-3495-2023/` | Ordenanza 3495/2023: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa GERMANO S.R.L. para la provisión de 50 m³ de hormigón … | in force 18 January 2023 |
-| `ordenanza-3497-2023/` | Ordenanza 3497/2023: Modifíquese el Artículo 1º de la Ordenanza Nº3431/2021 Ordenanza Complementaria del Ente Descentralizado Hospital “Saturnino E. Unzué” año … | in force 18 January 2023 |
-| `ordenanza-3498-2023/` | Ordenanza 3498/2023: Fijase como sueldo mínimo para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración comunal el establ… | in force 18 January 2023 |
-| `ordenanza-3499-2023/` | Ordenanza 3499/2023: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Com… | in force 18 January 2023 |
-| `ordenanza-3500-2023/` | Ordenanza 3500/2023: Apruébese el Formulario 1 de fs. 1 a fs. 2. | in force 18 January 2023 |
+| `ordenanza-3487-2023/` | Ordenanza 3487/2022: Convalídese el Convenio de Consorcio Urbanístico celebrado entre el señor Alberto GOSTOROGARAY ANDORNO DNI Nº 17.100.613 con domicilio en l… | in force 18 January 2023 |
+| `ordenanza-3489-2023/` | Ordenanza 3489/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Ingeniero Osvaldo MELIENDREZ para la provisión de mano de obra… | in force 18 January 2023 |
+| `ordenanza-3490-2023/` | Ordenanza 3490/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por el Sr. Jorge PORTILLA para la provisión de mano de obra, material… | in force 18 January 2023 |
+| `ordenanza-3492-2023/` | Ordenanza 3492/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa “COOPERATIVA DE TRABAJO ABRIGO Y ESPERANZA LTDA” para … | in force 18 January 2023 |
+| `ordenanza-3495-2023/` | Ordenanza 3495/2022: Autorícese al Poder Ejecutivo Municipal a aceptar la oferta realizada por la empresa GERMANO S.R.L. para la provisión de 50 m³ de hormigón … | in force 18 January 2023 |
+| `ordenanza-3497-2023/` | Ordenanza 3497/2022: Modifíquese el Artículo 1º de la Ordenanza Nº3431/2021 Ordenanza Complementaria del Ente Descentralizado Hospital “Saturnino E. Unzué” año … | in force 18 January 2023 |
+| `ordenanza-3498-2023/` | Ordenanza 3498/2022: Fijase como sueldo mínimo para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración comunal el establ… | in force 18 January 2023 |
+| `ordenanza-3499-2023/` | Ordenanza 3499/2022: 1) Fijase la remuneración básica mínima para los agentes municipales mayores de 18 años que cumplan horario normal en la Administración Com… | in force 18 January 2023 |
+| `ordenanza-3500-2023/` | Ordenanza 3500/2022: Apruébese el Formulario 1 de fs. 1 a fs. 2. | in force 18 January 2023 |
 | `ordenanza-3501-2023/` | Ordenanza 3501/2023: Declárase el Año 2023 como año de homenaje a los cuarenta años ininterrumpidos de Democracia. | in force 22 April 2023 |
 | `ordenanza-3502-2023/` | Ordenanza 3502/2023: Convalídese el Convenio de Contrato de Concesión de Servicio de Cremación y Comodato celebrado entre la empresa “CREMATORIO ETERNAL S.A.” r… | in force 22 April 2023 |
 | `ordenanza-3503-2023/` | Ordenanza 3503/2023: La presente Ordenanza tiene como objeto establecer como derecho humano el acceso al agua potable. | in force 6 May 2023 |
@@ -138,9 +138,9 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3527-2023/` | Ordenanza 3527/2023: Modificase el Artículo 1º de la Ordenanza Complementaria Nº 3498/2022, el que quedará redactado de la siguiente manera: | in force 10 December 2023 |
 | `ordenanza-3528-2023/` | Ordenanza 3528/2023: Designase con el nombre de “Presidente Raúl Ricardo Alfonsín” a la Sala de Prensa, contigua al Recinto de Sesiones, del Honorable Concejo D… | in force 10 December 2023 |
 | `ordenanza-3530-2024/` | Ordenanza 3530/2023: Convalidase el Decreto Municipal N° 820/2023 que prevé la derogación de la Ordenanza N° 3447/2022. | in force 29 March 2024 |
-| `ordenanza-3532-2024/` | Ordenanza 3532/2024: Convalídese el Decreto N° 816/2023 por el cual se separa de sus funciones a los Funcionarios de Ley Jonathan Emanuel Sibona, DNI Nº 34.589.… | in force 29 March 2024 |
-| `ordenanza-3534-2024/` | Ordenanza 3534/2024: Apruébese el Formulario 1 de fs. 1 a fs. 1. | in force 29 March 2024 |
-| `ordenanza-3535-2024/` | Ordenanza 3535/2024: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2024 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 11.240.000.000… | in force 29 March 2024 |
+| `ordenanza-3532-2024/` | Ordenanza 3532/2023: Convalídese el Decreto N° 816/2023 por el cual se separa de sus funciones a los Funcionarios de Ley Jonathan Emanuel Sibona, DNI Nº 34.589.… | in force 29 March 2024 |
+| `ordenanza-3534-2024/` | Ordenanza 3534/2023: Apruébese el Formulario 1 de fs. 1 a fs. 1. | in force 29 March 2024 |
+| `ordenanza-3535-2024/` | Ordenanza 3535/2023: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2024 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 11.240.000.000… | in force 29 March 2024 |
 | `ordenanza-3536-2024/` | Ordenanza 3536/2024: Impleméntese en el Partido de Veinticinco de Mayo, el “Programa Integral de Educación y Seguridad Vial” conteniendo reglas de circulación, … | in force 29 March 2024 |
 | `ordenanza-3541-2024/` | Ordenanza 3541/2024: El Intendente Municipal tendrá como auxiliares para el cumplimiento de sus atribuciones a los Secretarios que establece esta Ordenanza, qui… | in force 23 April 2024 |
 | `ordenanza-3538-2024/` | Ordenanza 3538/2024: El día 02 de abril de cada año la Municipalidad de 25 de Mayo realizará un Acto Central en conmemoración a los Veteranos y Caídos en la Gue… | in force 2 May 2024 |
@@ -167,16 +167,16 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3575-2024/` | Ordenanza 3575/2024: Autorízase al Colegio San José de 25 de Mayo a colocar una imagen de la Madre Camila junto a una breve reseña histórica, a través de un cód… | in force 27 December 2024 |
 | `ordenanza-3576-2024/` | Ordenanza 3576/2024: Prohíbase en el Partido de 25 de Mayo, la utilización, tenencia, acopio, depósito, exhibición, fabricación, detonación, comercialización y/… | in force 27 December 2024 |
 | `ordenanza-3574-2024/` | Ordenanza 3574/2024: Deróguense las Ordenanzas N° 2404/1995 de conformación del “Ente Descentralizado Hospital Saturnino E. Unzué”, y sus modificatorias N° 3165… | in force 8 January 2025 |
-| `ordenanza-3577-2025/` | Ordenanza 3577/2025: Modifícase la Ordenanza N° 3422/2021, que impone números y nombres a las calles de la Localidad de Norberto de La Riestra, incorporando al … | in force 20 February 2025 |
-| `ordenanza-3578-2025/` | Ordenanza 3578/2025: Adhiérase la Municipalidad de 25 de Mayo a la Ley Provincial Nº 15.491, que da marco legal al tratamiento de la enfermedad llamada “Endomet… | in force 20 February 2025 |
-| `ordenanza-3579-2025/` | Ordenanza 3579/2025: OBJETO. El objeto de la presente Ordenanza es la tutela de la salubridad pública de los vecinos del Partido de Veinticinco de Mayo (B), med… | in force 20 February 2025 |
-| `ordenanza-3580-2025/` | Ordenanza 3580/2025: Impóngase el nombre de “Dr. Modesto Pacifico Montecchia”, a la totalidad del trazado de la Calle 33 de la ciudad de 25 de Mayo. | in force 1 October 2025 |
-| `ordenanza-3584-2025/` | Ordenanza 3584/2025: Convalídense los Contratos de Locación celebrados con la Municipalidad de 25 de Mayo, durante el año 2024 con las Personas y/o Empresas men… | in force 1 October 2025 |
-| `ordenanza-3585-2025/` | Ordenanza 3585/2025: Convalídese el Decreto N° 758/2024 del Departamento Ejecutivo que adjudica a Toledo Carlos Aníbal y Otros la Licitación Pública Nº 8/2024 s… | in force 1 October 2025 |
+| `ordenanza-3577-2025/` | Ordenanza 3577/2024: Modifícase la Ordenanza N° 3422/2021, que impone números y nombres a las calles de la Localidad de Norberto de La Riestra, incorporando al … | in force 20 February 2025 |
+| `ordenanza-3578-2025/` | Ordenanza 3578/2024: Adhiérase la Municipalidad de 25 de Mayo a la Ley Provincial Nº 15.491, que da marco legal al tratamiento de la enfermedad llamada “Endomet… | in force 20 February 2025 |
+| `ordenanza-3579-2025/` | Ordenanza 3579/2024: OBJETO. El objeto de la presente Ordenanza es la tutela de la salubridad pública de los vecinos del Partido de Veinticinco de Mayo (B), med… | in force 20 February 2025 |
+| `ordenanza-3580-2025/` | Ordenanza 3580/2024: Impóngase el nombre de “Dr. Modesto Pacifico Montecchia”, a la totalidad del trazado de la Calle 33 de la ciudad de 25 de Mayo. | in force 1 October 2025 |
+| `ordenanza-3584-2025/` | Ordenanza 3584/2024: Convalídense los Contratos de Locación celebrados con la Municipalidad de 25 de Mayo, durante el año 2024 con las Personas y/o Empresas men… | in force 1 October 2025 |
+| `ordenanza-3585-2025/` | Ordenanza 3585/2024: Convalídese el Decreto N° 758/2024 del Departamento Ejecutivo que adjudica a Toledo Carlos Aníbal y Otros la Licitación Pública Nº 8/2024 s… | in force 1 October 2025 |
 | `ordenanza-3586-2025/` | Ordenanza 3586/2024: Modifíquese el Artículo N° 3 de la Ordenanza Nº3345/2018, referente a establecimientos de engorde intensivo de ganado bovino/bubalino, el q… | in force 1 October 2025 |
-| `ordenanza-3589-2025/` | Ordenanza 3589/2025: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2025 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 28.500.000,000… | in force 1 October 2025 |
-| `ordenanza-3590-2025/` | Ordenanza 3590/2025: Modifíquese el Artículo N° 1 de la Ordenanza Complementaria correspondiente a la Ordenanza N° 3535/2023 el que quedará redactado de la sigu… | in force 1 October 2025 |
-| `ordenanza-3591-2025/` | Ordenanza 3591/2025: Modifíquese la Ordenanza Nº 3534/2023, Complementaria del Presupuesto 2024 del Ente Descentralizado Hospital Saturnino E. Unzué, en los Art… | in force 1 October 2025 |
+| `ordenanza-3589-2025/` | Ordenanza 3589/2024: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2025 de la Municipalidad de 25 de Mayo, que asciende a la suma de $ 28.500.000,000… | in force 1 October 2025 |
+| `ordenanza-3590-2025/` | Ordenanza 3590/2024: Modifíquese el Artículo N° 1 de la Ordenanza Complementaria correspondiente a la Ordenanza N° 3535/2023 el que quedará redactado de la sigu… | in force 1 October 2025 |
+| `ordenanza-3591-2025/` | Ordenanza 3591/2024: Modifíquese la Ordenanza Nº 3534/2023, Complementaria del Presupuesto 2024 del Ente Descentralizado Hospital Saturnino E. Unzué, en los Art… | in force 1 October 2025 |
 | `ordenanza-3592-2025/` | Ordenanza 3592/2025: Convalídese en todos sus términos el Decreto N°165/2025 del Departamento Ejecutivo, por el cual la Municipalidad de 25 de Mayo declara de U… | in force 1 October 2025 |
 | `ordenanza-3593-2025/` | Ordenanza 3593/2025: Modifíquese el Artículo N° 1 de la Ordenanza Municipal Nº 2779/2004 el que quedará redactado de la siguiente manera: | in force 1 October 2025 |
 | `ordenanza-3594-2025/` | Ordenanza 3594/2025: Impóngase el nombre de “Paseo de la Salud Papa Francisco” al espacio público comprendido entre la Avenida 36 y la Calle 37 y desde la Calle… | in force 1 October 2025 |
@@ -185,14 +185,14 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3605-2025/` | Ordenanza 3605/2025: Deróguese la Ordenanza N° 3533/2023. | in force 26 November 2025 |
 | `ordenanza-3609-2025/` | Ordenanza 3609/2025: Adhiérase la Municipalidad de 25 de Mayo a la Ley Provincial Nº 10.499/1987 y modificaciones, por la cual se adhirió a la Ley Nacional N° 2… | in force 8 January 2026 |
 | `ordenanza-3611-2025/` | Ordenanza 3611/2025: Créase en el ámbito del Municipio de 25 de Mayo el Programa Municipal de Prevención y Difusión Ginecológica Gratuita, destinado a mujeres c… | in force 8 January 2026 |
-| `ordenanza-3615-2026/` | Ordenanza 3615/2026: Créase el Banco de Leña Municipal bajo la órbita de la Secretaría de Desarrollo Humano en la Municipalidad de 25 de Mayo. | in force 4 November 2026 |
-| `ordenanza-3616-2026/` | Ordenanza 3616/2026: Facultase al Departamento Ejecutivo Municipal a colocar la señalética de tránsito correspondiente y vigente en la Localidad de Martín Berra… | in force 4 November 2026 |
-| `ordenanza-3617-2026/` | Ordenanza 3617/2026: Créase la Plataforma Digital “Agenda Virtual de Contactos de Oficios y Profesiones” del Distrito de 25 de Mayo, como herramienta de acceso … | in force 4 November 2026 |
-| `ordenanza-3618-2026/` | Ordenanza 3618/2026: Convalídese el “Convenio de Colaboración” celebrado entre la Autoridad del Agua de la Provincia de Buenos Aires, representado en este acto … | in force 4 November 2026 |
-| `ordenanza-3619-2026/` | Ordenanza 3619/2026: Declárese “Patrimonio Cultural e Histórico del Distrito de 25 de Mayo” el edificio de la “Sociedad Protectora del Hogar de Ancianos de 25 d… | in force 4 November 2026 |
-| `ordenanza-3620-2026/` | Ordenanza 3620/2026: Declárese el año 2026 como año del “Coral 25 de Mayo” que celebra su 70° Aniversario. | in force 4 November 2026 |
-| `ordenanza-3623-2026/` | Ordenanza 3623/2026: Convalídense los siguientes Convenios celebrados en el año 2022 por la Municipalidad 25 de Mayo; el “Convenio Marco de Cooperación Instituc… | in force 4 November 2026 |
-| `ordenanza-3625-2026/` | Ordenanza 3625/2026: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2026 de la Municipalidad de 25 de Mayo, que asciende a la suma de $39.900.000.000,… | in force 4 November 2026 |
+| `ordenanza-3615-2026/` | Ordenanza 3615/2025: Créase el Banco de Leña Municipal bajo la órbita de la Secretaría de Desarrollo Humano en la Municipalidad de 25 de Mayo. | in force 4 November 2026 |
+| `ordenanza-3616-2026/` | Ordenanza 3616/2025: Facultase al Departamento Ejecutivo Municipal a colocar la señalética de tránsito correspondiente y vigente en la Localidad de Martín Berra… | in force 4 November 2026 |
+| `ordenanza-3617-2026/` | Ordenanza 3617/2025: Créase la Plataforma Digital “Agenda Virtual de Contactos de Oficios y Profesiones” del Distrito de 25 de Mayo, como herramienta de acceso … | in force 4 November 2026 |
+| `ordenanza-3618-2026/` | Ordenanza 3618/2025: Convalídese el “Convenio de Colaboración” celebrado entre la Autoridad del Agua de la Provincia de Buenos Aires, representado en este acto … | in force 4 November 2026 |
+| `ordenanza-3619-2026/` | Ordenanza 3619/2025: Declárese “Patrimonio Cultural e Histórico del Distrito de 25 de Mayo” el edificio de la “Sociedad Protectora del Hogar de Ancianos de 25 d… | in force 4 November 2026 |
+| `ordenanza-3620-2026/` | Ordenanza 3620/2025: Declárese el año 2026 como año del “Coral 25 de Mayo” que celebra su 70° Aniversario. | in force 4 November 2026 |
+| `ordenanza-3623-2026/` | Ordenanza 3623/2025: Convalídense los siguientes Convenios celebrados en el año 2022 por la Municipalidad 25 de Mayo; el “Convenio Marco de Cooperación Instituc… | in force 4 November 2026 |
+| `ordenanza-3625-2026/` | Ordenanza 3625/2025: Apruébese el Cálculo de Recursos por Rubro del Ejercicio 2026 de la Municipalidad de 25 de Mayo, que asciende a la suma de $39.900.000.000,… | in force 4 November 2026 |
 | `ordenanza-3627-2026/` | Ordenanza 3627/2026: Declárase “Patrimonio Cultural e Histórico del Distrito de 25 de Mayo” el edificio que corresponde a la Ex Escuela Profesional, ubicado en … | in force 4 November 2026 |
 | `ordenanza-3629-2026/` | Ordenanza 3629/2026: Créase la “Mesa Local de Abordaje Integral de problemáticas juveniles”, con el objetivo de diseñar, coordinar y monitorear estrategias loca… | in force 4 November 2026 |
 | `ordenanza-3630-2026/` | Ordenanza 3630/2026: Autorízase en todo el ámbito del Partido de 25 de Mayo la instalación y utilización de biodigestores domiciliarios como sistema de tratamie… | in force 4 November 2026 |
@@ -215,6 +215,31 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3650-2026/` | Ordenanza 3650/2026: Convalídese la adjudicación y/o regularización dominial de las parcelas ubicadas en el Sector Industrial Planificado “Dr. Manuel Belgrano”,… | in force 4 November 2026 |
 | `ordenanza-3651-2026/` | Ordenanza 3651/2026: Todo comercio minorista que comercialice Gas Licuado de Petróleo (GLP) envasado, dentro del Partido de 25 de Mayo deberá ajustarse estricta… | in force 4 November 2026 |
 
+| `ordenanza-3320-2017-complementaria/` | Ordenanza 3320/2017 complementaria | oldest published text, in force 2018-01-04 |
+| `ordenanza-3321-2017/` | Ordenanza 3321/2017 | oldest published text, in force 2018-02-03 |
+| `ordenanza-14-2018/` | Ordenanza 14/2018 | oldest published text, in force 2018-10-25 |
+| `ordenanza-3366-2020/` | Ordenanza 3366/2020 | oldest published text, in force 2020-08-10 |
+| `ordenanza-3373-2020/` | Ordenanza 3373/2020 | oldest published text, in force 2020-08-13 |
+| `ordenanza-3375-2020/` | Ordenanza 3375/2020 | oldest published text, in force 2020-08-13 |
+| `ordenanza-3379-2020/` | Ordenanza 3379/2020 | oldest published text, in force 2020-09-25 |
+| `ordenanza-3380-2020/` | Ordenanza 3380/2020 | oldest published text, in force 2020-09-25 |
+| `ordenanza-3399-2021/` | Ordenanza 3399/2021 | oldest published text, in force 2021-05-21 |
+| `ordenanza-3416-2021/` | Ordenanza 3416/2021 | oldest published text, in force 2021-10-03 |
+| `ordenanza-3425-2021/` | Ordenanza 3425/2021 | oldest published text, in force 2021-12-30 |
+| `ordenanza-3426-2021/` | Ordenanza 3426/2021 | oldest published text, in force 2021-12-30 |
+| `ordenanza-3428-2021/` | Ordenanza 3428/2021 | oldest published text, in force 2021-12-30 |
+| `ordenanza-3432-2021/` | Ordenanza 3432/2021 | oldest published text, in force 2021-12-30 |
+| `ordenanza-3440-2021/` | Ordenanza 3440/2021 | oldest published text, in force 2022-01-13 |
+| `ordenanza-3450-2022/` | Ordenanza 3450/2022 | oldest published text, in force 2022-05-29 |
+| `ordenanza-3452-2022/` | Ordenanza 3452/2022 | oldest published text, in force 2022-06-09 |
+| `ordenanza-3457-2022/` | Ordenanza 3457/2022 | oldest published text, in force 2022-08-20 |
+| `ordenanza-3464-2022/` | Ordenanza 3464/2022 | oldest published text, in force 2022-09-30 |
+| `ordenanza-3468-2022/` | Ordenanza 3468/2022 | oldest published text, in force 2022-10-12 |
+| `ordenanza-3470-2022/` | Ordenanza 3470/2022 | oldest published text, in force 2022-10-23 |
+| `ordenanza-3476-2022/` | Ordenanza 3476/2022 | oldest published text, in force 2022-12-01 |
+| `ordenanza-3488-2022/` | Ordenanza 3488/2022 | oldest published text, in force 2023-01-18 |
+| `ordenanza-3514-2023/` | Ordenanza 3514/2023 | oldest published text, in force 2023-10-11 |
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Veinticinco de Mayo, <https://sibom.slyt.gba.gob.ar/cities/130>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -226,6 +251,8 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 - Versions that take effect after the retrieval day are on the `futuro` branch, never merged into `main`.
 
 ## Files
+
+Additional records use `<ordinance>/texto.md` for the complete text as published. Textual tables keep their source row and column order. No earlier wording or consolidated current text is inferred.
 
 `<ordinance>/art-005.md` is Artículo 5; `encabezado.md` holds the number, the place and date, the expediente line and anything printed before Artículo 1. Signatures and annexes stay in the file of the article they follow. One paragraph per line.
 
