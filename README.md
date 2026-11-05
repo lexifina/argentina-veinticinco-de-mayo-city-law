@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-239 ordinances so far, in force from 21 December 2017 to 4 November 2026, each as published in the Boletín Oficial Municipal de Veinticinco de Mayo, added in parts.
+253 ordinances so far, in force from 21 December 2017 to 4 November 2026, each as published in the Boletín Oficial Municipal de Veinticinco de Mayo, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -254,6 +254,21 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3570-2024/` | Ordenanza 3570/2024 | oldest published text, in force 2024-09-20 |
 | `ordenanza-3601-2025/` | Ordenanza 3601/2025 | oldest published text, in force 2025-10-01 |
 
+| `ordenanza-3312-2017/` | Ordenanza 3312/2017 | oldest published text, in force 2017-12-27 |
+| `ordenanza-3318-2017/` | Ordenanza 3318/2017 | oldest published text, in force 2018-01-04 |
+| `ordenanza-15-2018/` | Ordenanza 15/2018 | oldest published text, in force 2018-10-25 |
+| `ordenanza-3361-2020/` | Ordenanza 3361/2020 | oldest published text, in force 2020-08-10 |
+| `ordenanza-3363-2020/` | Ordenanza 3363/2020 | oldest published text, in force 2020-08-10 |
+| `ordenanza-3368-2020/` | Ordenanza 3368/2020 | oldest published text, in force 2020-08-10 |
+| `ordenanza-3371-2020/` | Ordenanza 3371/2020 | oldest published text, in force 2020-08-13 |
+| `ordenanza-3377-2020/` | Ordenanza 3377/2020 | oldest published text, in force 2020-09-25 |
+| `ordenanza-3381-2020/` | Ordenanza 3381/2020 | oldest published text, in force 2020-09-25 |
+| `ordenanza-3385-2020/` | Ordenanza 3385/2020 | oldest published text, in force 2020-12-03 |
+| `ordenanza-3474-2022/` | Ordenanza 3474/2022 | oldest published text, in force 2022-11-05 |
+| `ordenanza-3481-2022/` | Ordenanza 3481/2022 | oldest published text, in force 2022-12-14 |
+| `ordenanza-3581-2024/` | Ordenanza 3581/2024 | oldest published text, in force 2025-10-01 |
+| `ordenanza-3582-2024/` | Ordenanza 3582/2024 | oldest published text, in force 2025-10-01 |
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Veinticinco de Mayo, <https://sibom.slyt.gba.gob.ar/cities/130>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -265,6 +280,8 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 - Versions that take effect after the retrieval day are on the `futuro` branch, never merged into `main`.
 
 ## Files
+
+Additional records use `<ordinance>/texto.md` for the complete text as published. Textual tables keep their source row and column order. No earlier wording or consolidated current text is inferred.
 
 Additional records use `<ordinance>/texto.md` for the complete text as published. Textual tables keep their source row and column order. No earlier wording or consolidated current text is inferred.
 
@@ -294,3 +311,5 @@ This is not an official publication. The binding text is the one published in th
 | Ordenanza 3500/2022 | 9 January 2023 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/8113/contents/1824972> |
 
 Explicit repeal dates are recorded when the official repealing instrument and its commencement are available; original published wording remains in history.
+
+Source-linked textual annexes are included for the ordinances identified in the annex correction parts. Scanned annexes and normative maps remain incomplete pending their recorded review or image holds.

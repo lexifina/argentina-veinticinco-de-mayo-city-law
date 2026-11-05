@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-veinticinco-de-mayo-city-law",
-  "build": "built: municipal ordinances (239 ordinances, 240 versions) from https://sibom.slyt.gba.gob.ar/cities/130; texts as published, amendments separately represented, confirmed repeal dates recorded",
+  "build": "built: municipal ordinances (253 ordinances, 254 versions) from https://sibom.slyt.gba.gob.ar/cities/130; texts as published, amendments kept as separate instruments",
   "language": "es",
   "sources": 1
 }
